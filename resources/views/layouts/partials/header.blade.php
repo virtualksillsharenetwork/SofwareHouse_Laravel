@@ -88,7 +88,7 @@
     <div class="header-item-right headeraction">
     <ul>
     <li><a href="#" class="menu-icon"><i class="fa-solid fa-phone"></i></a> </li>
-    <li><a href="contact-1.html" class="sw-btn sw-orange-btn header-btn">Sign Up </a></li>
+    <li><a href="contact-1.html" class="sw-btn sw-orange-btn header-btn">Get in touch </a></li>
     <li><button type="button" class="menu-mobile-toggle"> <span></span> <span></span> <span></span> <span></span> </button> </li>
     </ul>
     </div>

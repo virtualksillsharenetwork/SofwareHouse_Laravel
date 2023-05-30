@@ -27,7 +27,7 @@
     <div class="col-lg-5">
     <div class="hero-content">
     <h1 class="mb20 wow fadeInUp" data-wow-delay=".8s"> Design Products<br> Deliver Experience </h1>
-    <p class="wow fadeInUp" data-wow-delay="1.2s">A full-service digital marketing firm that specialises in human-centered experiences. We bring companies and people together.</p>
+    <p class="wow fadeInUp" data-wow-delay="1.2s">A full-service digital marketing firm that specialises in human-centered experiences.</p>
     <a href="contact-1.html" class="sw-btn sw-blue-btn wow fadeInUp mt40" data-wow-delay="1.4s">Get a quote <i class="fa-solid fa-arrow-trend-up"></i></a>
     <div class="hero-iconsets wow fadeInUp" data-wow-delay="1.6s">
     <a href="#"><img src="images/icons/goodfirm-1.svg" alt="img"></a>
@@ -39,7 +39,7 @@
     <div class="col-lg-7 mmt40">
     <div class="hero-rght-sw wow fadeInUp" data-wow-delay="1.8s">
     <div class="video-button"> <a href="https://www.youtube.com/watch?v=Aty3TV4Yn4I" class="video-play"> <span class="play-btn"> <i class="fa fa-play"></i> </span> </a> </div>
-    <h3>We Design Digital Solutions <span>For Brands, Companies & Startups. </span></h3>
+    <h3>We Design Digital Solutions <span>For Brands, Companies & Startups  </span> to help businesses digitally transform.</h3>
     </div>
     <div class="cardsevc service--cards owl-carousel wow fadeInUp" data-wow-delay="2.5s">
     <div class="service-card-div service-slide">
@@ -72,7 +72,7 @@
     <div class="service-card-div service-slide">
     <a href="#">
     <div class="service-images"><img src="images/object/Other-11.png" alt="#"></div>
-    <div class="service-name">Blockchain <br> Development </div>
+    <div class="service-name">Web Application <br> Development </div>
     <div class="circleffect">
     <div class="animation">&nbsp;</div>
     </div>
@@ -109,9 +109,9 @@
     <div class="col-lg-6">
     <div class="about-conent paragraph">
     <span class="scriptheading dashbefore mb15 wow fadeIn" data-wow-delay=".2s" data-wow-duration="1500ms">WHO WE ARE</span>
-    <h2 class="mb20 wow fadeIn" data-wow-delay=".4s" data-wow-duration="1500ms">Hire the Best Web and Mobile App Developers For Your Project</h2>
-    <p class="wow fadeIn" data-wow-delay=".6s" data-wow-duration="1500ms">Expertise helps Blueket tackle the world's most difficult challenges. Blueket provides digital products for worldwide brands on the web, mobile, and linked platforms. Expertise helps Blueket tackle the world's most difficult challenges. Blueket provides digital products for worldwide brands on the web, mobile, and linked platforms.</p>
-    <p class="wow fadeIn" data-wow-delay=".8s" data-wow-duration="1500ms">Expertise helps Blueket tackle the world's most difficult challenges. Blueket provides digital products for worldwide brands on the web.</p>
+    <h2 class="mb20 wow fadeIn" data-wow-delay=".4s" data-wow-duration="1500ms">The Best Experts of IT & Development Domain For Your Project</h2>
+    <p class="wow fadeIn" data-wow-delay=".6s" data-wow-duration="1500ms">Rapid innovation is an essential feature of digital information technology. TechnoPert understands the importance of remaining current through frequent self-reinvention. We accomplish this by continually attracting the brightest minds in modern digital paradigms and platforms.</p>
+    <p class="wow fadeIn" data-wow-delay=".8s" data-wow-duration="1500ms">By maintaining a roster of skilled technology professionals across every business function, TechnoPert distinguishes itself by offering its client organizations a single touchpoint to address all of their enterprise technology needs.</p>
     <a href="contact-1.html" class="sw-btn sw-blue-btn mt30">Read More</a>
     </div>
     </div>
@@ -153,7 +153,7 @@
     <div class="row justify-content-center">
     <div class="col-xl-7 col-lg-8 text-center">
     <h2 class="text-gradient-1 mb15 wow fadeIn" data-wow-delay=".2s">Services We Provide</h2>
-    <p class="wow fadeIn" data-wow-delay=".4s">Blueket overcomes challenges, achieves results, and adds value to our clients and partners. Take a look at some of our clients' success stories.</p>
+    <p class="wow fadeIn" data-wow-delay=".4s">TechnoPert overcomes challenges, achieves results, and adds value to our clients and partners. Take a look at some of our clients' success stories.</p>
     </div>
     </div>
     <div class="row mt30 dm4">
@@ -161,28 +161,28 @@
     <div class="sw-card white-bg shadow">
     <img src="images/icons/app.png" alt="icon" class="innercardiocn">
     <h3 class="swbttitlex">App<br> Development</h3>
-    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+    <p>Unleash your app's potential with our extraordinary development expertise.</p>
     </div>
     </div>
     <div class="col-lg-3 col-sm-6 mt30 wow fadeIn" data-wow-delay=".4s">
     <div class="sw-card white-bg shadow">
     <img src="images/icons/ux-design.png" alt="icon" class="innercardiocn">
     <h3 class="swbttitlex">Web<br> Development</h3>
-    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+    <p>Unleash your app's potential with our extraordinary development expertise.</p>
     </div>
     </div>
     <div class="col-lg-3 col-sm-6 mt30 wow fadeIn" data-wow-delay=".8s">
     <div class="sw-card white-bg shadow">
     <img src="images/icons/content.png" alt="icon" class="innercardiocn">
     <h3 class="swbttitlex">Content<br> Marketing</h3>
-    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+    <p>Ignite your brand's growth with our exceptional content marketing strategies.</p>
     </div>
     </div>
     <div class="col-lg-3 col-sm-6 mt30 wow fadeIn" data-wow-delay="1.2s">
     <div class="sw-card white-bg shadow">
     <img src="images/icons/online-shop.png" alt="icon" class="innercardiocn">
     <h3 class="swbttitlex">eCommerce<br> Development</h3>
-    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+    <p>Elevate your online business with our exceptional e-commerce development solutions.</p>
     </div>
     </div>
     </div>
@@ -303,7 +303,7 @@
     <a href="portfolio.html" class="inline-btn mt20 wow fadeInUp" data-wow-delay=".8s">View all Projects <i class="fa-solid fa-arrow-trend-up"></i></a>
     </div>
     <div class="col-lg-6 mmt30">
-    <p class=" wow fadeInUp" data-wow-delay="1.2s">Blueket overcomes challenges, achieves results, and adds value to our clients and partners. Take a look at some of our clients' success stories. Take a look at some of our clients' success stories.</p>
+    <p class=" wow fadeInUp" data-wow-delay="1.2s">TechnoPert overcomes challenges, achieves results, and adds value to our clients and partners. Take a look at some of our clients' success stories. Take a look at some of our clients' success stories.</p>
     </div>
     </div>
     </div>
@@ -379,14 +379,14 @@
     <div class="roundimg"><img src="images/common/attractive-laughing-freelancer.jpg" alt="img" class="w-100"></div>
     </div>
     <div class="col-lg-7 mmt40">
-    <h3 class="text-gradient-1 mb15 wow fadeIn" data-wow-delay=".2s">Make your Business Better. Grow your Business</h3>
-    <p class="wow fadeIn" data-wow-delay=".6s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.</p>
-    <p class="wow fadeIn" data-wow-delay=".8s">Blueket overcomes challenges, achieves results, and adds value to our clients and partners. Take a look at some of our clients' success stories. Take a look at some of our clients' success stories.</p>
-    <h5 class="mt30 wow fadeIn" data-wow-delay=".9s">Talk with the expert to grow your business</h5>
+    <h3 class="text-gradient-1 mb15 wow fadeIn" data-wow-delay=".2s">Elevate Your Business. Unlock Growth Potential</h3>
+    <p class="wow fadeIn" data-wow-delay=".6s">At TechnoPert, we specialize in transforming businesses and driving success. With our innovative solutions and expert guidance, we empower organizations to thrive in the digital landscape. Partner with us and witness the positive impact we can make on your business.</p>
+    <p class="wow fadeIn" data-wow-delay=".8s">TechnoPert overcomes challenges, achieves results, and adds value to our clients and partners. Take a look at some of our clients' success stories. Take a look at some of our clients' success stories.</p>
+    <h5 class="mt30 wow fadeIn" data-wow-delay=".9s">Why Choose TechnoPert?</h5>
     <ul class="bulletpoints mt30  wow fadeInUp" data-wow-delay="1s">
-    <li>Ut eu lectus non massa rhoncus elementum.</li>
-    <li>Nunc scelerisque urna nec quam efficitur semper.</li>
-    <li>Ut eu lectus non massa rhoncus elementum.</li>
+    <li>Proven track record. Tailored solutions. Unmatched expertise. Cutting-edge technologies. Results-driven approach.</li>
+    <li>Client-centric approach. Innovation-powered solutions. Exceeding expectations. Inspiring growth.</li>
+    <li>Strategic thinking. Exceptional outcomes. Collaborative partnerships. Enduring success.</li>
     </ul>
     </div>
     </div>
@@ -413,22 +413,22 @@
     <div class="row justify-content-between">
     <div class="col-lg-6">
     <h3 class="text-gradient-1 mb15 wow fadeIn" data-wow-delay=".2s">Get An Exclusively Brewed Digital Solution For Your Business</h3>
-    <p class="wow fadeIn" data-wow-delay=".6s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.</p>
+    <p class="wow fadeIn" data-wow-delay=".6s">At TechnoPert, we believe in delivering digital solutions that are meticulously crafted for your business. We understand that every organization has unique goals, challenges, and requirements. That's why we offer exclusively brewed digital solutions tailored to your specific needs. Our team of experts will work closely with you to understand your business inside out and design a customized strategy that aligns perfectly with your objectives.</p>
     <a href="#" class="sw-btn sw-blue-btn mt30 wow fadeInUp" data-wow-delay="1s">Get Started <i class="fa-solid fa-arrow-trend-up"></i></a>
     <div class="medianumbers mt40">
     <div class="mediablock wow fadeInUp" data-wow-delay=".8s">
     <div class="ex---">
-    <div class="progressbar circle-bar orange" data-value="65"></div>
+    <div class="progressbar circle-bar orange" data-value="100"></div>
     </div>
     <div class="stats-break"></div>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec gravida purus.</p>
+    <p>Delighting customers through unparalleled satisfaction is our driving force.</p>
     </div>
     <div class="mediablock mt30 wow fadeInUp" data-wow-delay="1s">
     <div class="ex---">
-    <div class="progressbar circle-bar blue" data-value="40"></div>
+    <div class="progressbar circle-bar blue" data-value="100"></div>
     </div>
     <div class="stats-break"></div>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec gravida purus.</p>
+    <p>Our services exemplify extraordinary prowess, fueled by unwavering dedication and relentless pursuit of perfection.</p>
     </div>
     </div>
     </div>
@@ -436,7 +436,7 @@
     <div class="roundimg wow fadeIn" data-wow-delay="1.2s"><img src="images/common/company.jpg" alt="img" class="w-100"></div>
     <div class="img-overthe-card wow fadeIn" data-wow-delay="1.6s">
     <h4>Excellent Team</h4>
-    <p>Creativ Idea</p>
+    <p>TechnoPert</p>
     <div class="card-v-light"></div>
     <div class="mediablock mt30">
     <div class="user-image wh"><img src="images/common/user-image-3.jpg" alt="review"></div>
@@ -556,7 +556,7 @@
     <div class="row mt60">
     <div class="col-lg-12">
     <div class="review-slider owl-carousel full-button">
-    <div class="blueket-card-noise card-img-round pt30">
+    <div class="TechnoPert-card-noise card-img-round pt30">
     <div class="review-img-block">
     <div class="user-image"><img src="images/common/user-image.jpg" alt="review"></div>
     <div class="user-content">
@@ -565,7 +565,7 @@
     </div>
     </div>
     <div class="review-content mt30 mb30">
-    <p>When it comes to website development and SEO, Blueket has been the best company I've worked with so far. We hired them for both of our businesses and have seen a drastic increase in our customer base.</p>
+    <p>TechnoPert's expertise in SEO and digital marketing exceeded my expectations. Their strategic approach and attention to detail boosted my website's visibility, organic traffic, and search engine rankings. With improved user experience and higher conversions, TechnoPert made a remarkable impact on my business. I highly recommend their services for online growth and success.</p>
     </div>
     <div class="review-footer pair-block">
     <div class="image-icon">
@@ -582,7 +582,7 @@
     </div>
     </div>
     </div>
-    <div class="blueket-card-noise card-img-round pt30">
+    <div class="TechnoPert-card-noise card-img-round pt30">
     <div class="review-img-block">
     <div class="user-image"><img src="images/common/user-image-2.jpg" alt="review"></div>
     <div class="user-content">
@@ -591,7 +591,7 @@
     </div>
     </div>
     <div class="review-content mt30 mb30">
-    <p>When it comes to website development and SEO, Blueket has been the best company I've worked with so far. We hired them for both of our businesses and have seen a drastic increase in our customer base.</p>
+    <p>I had an exceptional experience with TechnoPert's e-commerce web development services. Their skilled team created a robust and user-friendly online store, paying meticulous attention to detail. The visually appealing platform and seamless shopping experience resulted in a significant boost in my online business. I highly recommend TechnoPert for top-notch e-commerce web development.</p>
     </div>
     <div class="review-footer pair-block">
     <div class="image-icon">
@@ -608,7 +608,7 @@
     </div>
     </div>
     </div>
-    <div class="blueket-card-noise card-img-round pt30">
+    <div class="TechnoPert-card-noise card-img-round pt30">
     <div class="review-img-block">
     <div class="user-image"><img src="images/common/user-image-3.jpg" alt="review"></div>
     <div class="user-content">
@@ -617,7 +617,7 @@
     </div>
     </div>
     <div class="review-content mt30 mb30">
-    <p>When it comes to website development and SEO, Blueket has been the best company I've worked with so far. We hired them for both of our businesses and have seen a drastic increase in our customer base.</p>
+    <p>TechnoPert and their exceptional team have been a pleasure to work with. Their passionate professionals showcased expertise, attention to detail, and excellent communication throughout our project. Their collaborative approach, commitment to excellence, and timely delivery exceeded our expectations. I highly recommend TechnoPert for top-notch software development services.</p>
     </div>
     <div class="review-footer pair-block">
     <div class="image-icon">
@@ -634,7 +634,7 @@
     </div>
     </div>
     </div>
-    <div class="blueket-card-noise card-img-round pt30">
+    <div class="TechnoPert-card-noise card-img-round pt30">
     <div class="review-img-block">
     <div class="user-image"><img src="images/common/user-image-4.jpg" alt="review"></div>
     <div class="user-content">
@@ -643,7 +643,7 @@
     </div>
     </div>
     <div class="review-content mt30 mb30">
-    <p>When it comes to website development and SEO, Blueket has been the best company I've worked with so far. We hired them for both of our businesses and have seen a drastic increase in our customer base.</p>
+    <p>I'm highly satisfied with TechnoPert's desktop and mobile app development services. Their expertise in creating applications for multiple platforms was outstanding. They delivered high-quality solutions tailored to my requirements, ensuring seamless functionality. Their commitment to customer satisfaction is commendable. I highly recommend TechnoPert for efficient and reliable app development.</p>
     </div>
     <div class="review-footer pair-block">
     <div class="image-icon">
@@ -693,7 +693,7 @@
     <div class="ft-address-blocks mt60">
     <div class="subsc-div-sw">
     <h5>Ready to Move Forward and Get the Latest Insights.</h5>
-    <div class="blueketsubscriptionbox mt30">
+    <div class="TechnoPertsubscriptionbox mt30">
     <form>
     <div class="form-inputs subsform">
     <input type="tel" class="form-controls" placeholder="Enter Your Email">
@@ -779,25 +779,26 @@
     <a href="#"><img src="images/icons/award-badge-7.png" alt="icon"></a>
     </div>
     </div>
-
     <div class="footercreditandrevielinks swhr pt20 mt60">
-    <div class="row">
-    <div class="col-lg-12">
-    <div class="footercreditnote sw-hover-1">
-    <div>
-    <p>© 2022 All Rights Reserved By <a href="#"> Separateweb</a></p>
-    </div>
-    <div class="linkftsw">
-    <ul class="list-h-styled">
-    <li><a href="#">Sitemap</a></li>
-    <li><a href="#">Terms of Use</a></li>
-    <li><a href="#">Privacy Policy</a></li>
-    </ul>
-    </div>
-    </div>
-    </div>
-    </div>
-    </div>
+        <div class="row">
+        <div class="col-lg-12">
+        <div class="footercreditnote sw-hover-1">
+        <div>
+        <p>© 2023 All Rights Reserved By <a href="#"> TechnoPert</a></p>
+        </div>
+        <div class="linkftsw">
+        <ul class="list-h-styled">
+        <li><a href="#">Sitemap</a></li>
+        <li><a href="#">Terms of Use</a></li>
+        <li><a href="#">Privacy Policy</a></li>
+        </ul>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+
+
     </div>
     </footer>
 
