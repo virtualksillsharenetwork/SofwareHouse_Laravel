@@ -28,7 +28,7 @@
     <div class="hero-content">
     <h1 class="mb20 wow fadeInUp" data-wow-delay=".8s"> Design Products<br> Deliver Experience </h1>
     <p class="wow fadeInUp" data-wow-delay="1.2s">A full-service digital marketing firm that specialises in human-centered experiences. We bring companies and people together.</p>
-    <a href="contact-1.html" class="sw-btn sw-blue-btn wow fadeInUp mt40" data-wow-delay="1.4s">Get Started <i class="fa-solid fa-arrow-trend-up"></i></a>
+    <a href="contact-1.html" class="sw-btn sw-blue-btn wow fadeInUp mt40" data-wow-delay="1.4s">Get a quote <i class="fa-solid fa-arrow-trend-up"></i></a>
     <div class="hero-iconsets wow fadeInUp" data-wow-delay="1.6s">
     <a href="#"><img src="images/icons/goodfirm-1.svg" alt="img"></a>
     <a href="#"><img src="images/icons/clutch-1.svg" alt="img"></a>
