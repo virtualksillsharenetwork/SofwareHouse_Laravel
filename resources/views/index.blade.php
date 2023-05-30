@@ -15,398 +15,791 @@
         </style>
 @endpush
 @section('content')
-    <!-- BEGIN: Content-->
-    <div class="header-item-center hic d-none">
-        <div class="overlay"></div>
-        <nav class="menu animation" id="menu">
-        <div class="menu-mobile-header">
-        <button type="button" class="menu-mobile-arrow"><i class="fa-solid fa-angle-left"></i></button>
-        <div class="menu-mobile-title"></div>
-        <button type="button" class="menu-mobile-close"><i class="fa-solid fa-xmark"></i></button>
-        </div>
-        <ul class="menu-section">
-        <li class="menu-item-has-children">
-        <a href="#.">Demo <i class="fa-solid fa-angle-down"></i></a>
-        <div class="menu-subs menu-column-1">
-        <ul>
-        <li><a href="https://separateweb.com/">Demo 1</a></li>
-        <li><a href="https://separateweb.com/">Demo 2</a></li>
-        </ul>
-        </div>
-        </li>
-        <li class="menu-item"><a href="https://separateweb.com/">About Us</a></li>
-        <li class="menu-item-has-children">
-        <a href="#.">Services <i class="fa-solid fa-angle-down"></i></a>
-        <div class="menu-subs menu-column-1">
-        <ul>
-        <li><a href="service-page-1.html">Service I</a></li>
-        <li><a href="service-page-2.html">Service II</a></li>
-        </ul>
-        </div>
-        </li>
-        <li class="menu-item"><a href="portfolio.html">Portfolio</a></li>
-        <li class="menu-item-has-children">
-        <a href="#.">Blogs <i class="fa-solid fa-angle-down"></i></a>
-        <div class="menu-subs menu-column-1">
-        <ul>
-        <li><a href="blogs.html">Blog Page</a></li>
-        <li><a href="blogs-details.html">Blog Details</a></li>
-        </ul>
-        </div>
-        </li>
-        <li class="menu-item"><a href="contact-1.html">Contact Us</a></li>
-        <li class="darkmodeswitch d-none">
-        <div class="switch-wrapper"> <label class="switch" for="blueket"> <input type="checkbox" id="blueket" /> <span class="slider round"></span> </label> </div>
-        </li>
-        </ul>
-        </nav>
-        </div>
 
-        <div class="header-item-right headeraction">
-        <ul>
-        <li><a href="https://www.templatemonster.com/website-templates/blueket-digital-agency-amp-portfolio-html-template-241010.html" class="sw-btn sw-orange-btn header-btn noshadow">Purchase
-        <i class="fa-solid fa-cart-shopping"></i></a></li>
-        <li class="d-none"> <button type="button" class="menu-mobile-toggle"> <span></span> <span></span> <span></span> <span></span> </button> </li>
-        </ul>
-        </div>
-        </div>
-        </div>
-        </header>
-
-
-        <section class="demo-1-hero">
-        <div class="herodiv">
-        <video autoplay muted loop id="myVideo" poster="images/object/dark-bg.jpg">
-        <source src="{{ asset('images/object/dark-bg.mp4') }}" type="video/mp4">
-        </video>
-        </div>
-        <div class="container">
-        <div class="row">
-        <div class="col-lg-12">
-        <div class="hero-content text-center">
-        <span class="text-white title">Templatemonster HTML5 Template</span>
-        <h1 class="mb20 txt-white wow fadeInUp" data-wow-delay=".25s">Creative Agency, Corporate Business and Marketing Agency HTML5 Template</h1>
-        <p class="white-color wow fadeInUp" data-wow-delay=".5s">Blueket can be used to build an eye-catching website. It will fulfill all of your prerequisites for an agency and corporate business website.</p>
-        <div class="mt40 item-pair justify-content-center">
-        <a href="#demo" class="sw-btn sw-blue-btn wow fadeInUp noshadow" data-wow-delay=".7s">View Demo <i class="fa-solid fa-angles-down"></i></a>
-        <a href="https://www.templatemonster.com/website-templates/blueket-digital-agency-amp-portfolio-html-template-241010.html" class="sw-btn sw-orange-btn wow fadeInUp noshadow" data-wow-delay=".7s">Purchase Now <i class="fa-solid fa-cart-shopping"></i></a>
-        </div>
-        </div>
-        </div>
-        </div>
-        </div>
-        </section>
-
-
-        <section class="aboutblock section-space fwc indexdemo" id="demo">
-        <div class="container">
-        <div class="row justify-content-between">
-        <div class="col-lg-6">
-        <div class="about-conent paragraph">
-        <h2 class="wow fadeInUp" data-wow-delay=".2s">Creative Multipurpose Readymade Homepage Design</h2>
-        </div>
-        </div>
-        <div class="col-lg-5 mmt40">
-        <div class="about-conent paragraph">
-        <p class="white-color wow fadeInUp" data-wow-delay=".4s">You won't have to put any effort towards your website after purchasing Blueket. Blueket will take care of it. Separateweb is always willing to assist in the creation of a great websites.</p>
-        <p class="mt20"><em><b>Note:</b> All HTML, CSS, and JS files in the preview code have been minified to speed up the template. The Main original code is well constructed with comments.</em> </p>
-        </div>
-        </div>
-        </div>
-        <div class="row mt40 cardaclr">
-        <div class="col-xl-6 mt30">
-        <div class="homedemoview">
-        <a href="demo-marketing-agency.html">
-        <div class="portfolidiv">
-        <div class="portfolioimg roundimg shadow"><img src="{{ asset('images/demo/demo-1.jpg') }}" alt="demo"> </div>
-        <div class="infoblocis text-center">
-        <div class="nameofitem">
-        <h3>Demo 1</h3>
-        <ul class="list-h-demo">
-        <li>Marketing Agency</li>
-        <li>Lead Generation</li>
-        </ul>
-        </div>
-        </div>
-        </div>
-        </a>
-        </div>
-        </div>
-        <div class="col-xl-6 mt30">
-        <div class="homedemoview">
-        <a href="demo-web-design.html">
-        <div class="portfolidiv">
-        <div class="portfolioimg roundimg shadow"><img src="{{ asset('images/demo/demo-2.jpg') }}" alt="demo"> </div>
-        <div class="infoblocis text-center">
-        <div class="nameofitem">
-        <h3>Demo 2</h3>
-        <ul class="list-h-demo">
-        <li>Web Design</li>
-        <li>Development</li>
-        </ul>
-        </div>
-        </div>
-        </div>
-        </a>
-        </div>
-        </div>
-        <div class="col-xl-6 mt30">
-        <div class="homedemoview">
-        <a href="demo-app-development.html">
-        <div class="portfolidiv">
-        <div class="portfolioimg roundimg shadow"><img src="{{ asset('images/demo/demo-3.jpg') }}" alt="demo"> </div>
-        <div class="infoblocis text-center">
-        <div class="nameofitem">
-        <h3>Demo 3</h3>
-        <ul class="list-h-demo">
-        <li>App Development</li>
-        <li>Web Design</li>
-        </ul>
-        </div>
-        </div>
-        </div>
-        </a>
-        </div>
-        </div>
-        <div class="col-xl-6 mt30">
-        <div class="homedemoview">
-        <a href="demo-business-startup.html">
-        <div class="portfolidiv">
-        <div class="portfolioimg roundimg shadow"><img src="{{ asset('images/demo/demo-4.jpg') }}" alt="demo"> </div>
-        <div class="infoblocis text-center">
-        <div class="nameofitem">
-        <h3>Demo 4</h3>
-        <ul class="list-h-demo">
-        <li>Startup</li>
-        <li>Business</li>
-        </ul>
-        </div>
-        </div>
-        </div>
-        </a>
-        </div>
-        </div>
-        <div class="col-xl-6 mt30">
-        <div class="homedemoview">
-        <a href="demo-graphic-design.html">
-        <div class="portfolidiv">
-        <div class="portfolioimg roundimg shadow"><img src="{{ asset('images/demo/demo-5.jpg') }}" alt="demo"> </div>
-        <div class="infoblocis text-center">
-        <div class="nameofitem">
-        <h3>Demo 5</h3>
-        <ul class="list-h-demo">
-        <li>Graphic Design</li>
-        <li>Creative Agency</li>
-        </ul>
-        </div>
-        </div>
-        </div>
-        </a>
-        </div>
-        </div>
-        <div class="col-xl-6 mt30">
-        <div class="homedemoview">
-        <a href="demo-branding-agency.html">
-        <div class="portfolidiv">
-        <div class="portfolioimg roundimg shadow"><img src="{{ asset('images/demo/demo-6.jpg') }}" alt="demo"> </div>
-        <div class="infoblocis text-center">
-        <div class="nameofitem">
-        <h3>Demo 6</h3>
-        <ul class="list-h-demo">
-        <li>Graphic Agency</li>
-        <li>Branding Agency</li>
-        </ul>
-        </div>
-        </div>
-        </div>
-        </a>
-        </div>
-        </div>
-        <div class="col-xl-6 mt30">
-        <div class="homedemoview">
-        <a href="demo-digital-agency.html">
-        <div class="portfolidiv">
-        <div class="portfolioimg roundimg shadow"><img src="{{ asset('images/demo/demo-7.jpg') }}" alt="demo"> </div>
-        <div class="infoblocis text-center">
-        <div class="nameofitem">
-        <h3>Demo 7 <span class="badge text-bg-warning">New</span></h3>
-        <ul class="list-h-demo">
-        <li>Web</li>
-        <li>App</li>
-        <li>Marketing</li>
-        </ul>
-        </div>
-        </div>
-        </div>
-        </a>
-        </div>
-        </div>
-        <div class="col-xl-6 mt30">
-        <div class="homedemoview">
-        <a href="demo-freelancer.html">
-        <div class="portfolidiv">
-        <div class="portfolioimg roundimg shadow"><img src="{{ asset('images/demo/demo-8.jpg') }}" alt="demo"> </div>
-        <div class="infoblocis text-center">
-        <div class="nameofitem">
-        <h3>Demo 8 <span class="badge text-bg-warning">New</span></h3>
-        <ul class="list-h-demo">
-        <li>Personal</li>
-        <li>Freelancer</li>
-        </ul>
-        </div>
-        </div>
-        </div>
-        </a>
-        </div>
-        </div>
-        </div>
-        <div class="row mt100">
-        <div class="col-lg-12">
-        <h3>Inner Pages</h3>
-        </div>
-        <div class="col-lg-12 mt30">
-        <ul class="linklist sw-hover-2">
-        <li><a href="about-1.html">About Us 1 <span class="badge text-bg-warning">New</span></a></li>
-        <li><a href="about-2.html">About Us 2</a></li>
-        <li><a href="service-page-1.html">Service Page 1 <span class="badge text-bg-warning">New</span></a></li>
-        <li><a href="service-page-2.html">Service Page 2</a></li>
-        <li><a href="service-page-3.html">Service Page 3</a></li>
-        <li><a href="portfolio.html">Portfolio Page 1</a></li>
-        <li><a href="portfolio-2.html">Portfolio Page 2</a></li>
-        <li><a href="portfolio-3.html">Portfolio Page 3</a></li>
-        <li><a href="our-team.html">Our Team</a></li>
-        <li><a href="blogs.html">Blog Page 1</a></li>
-        <li><a href="blogs-2.html">Blog Page 2 <span class="badge text-bg-warning">New</span></a></li>
-        <li><a href="blogs-details.html">Blog Details</a></li>
-        <li><a href="contact-1.html">Contact Us 1 <span class="badge text-bg-warning">New</span></a></li>
-        <li><a href="contact-2.html">Contact Us 2</a></li>
-        <li><a href="pricing.html">Pricing Table</a></li>
-        <li><a href="error-404.html">404 Page</a></li>
-        <li><a href="coming-soon.html">Coming Soon Page</a></li>
-        <li><a href="privacy-policy.html">Privacy Policy</a></li>
-        <li><a href="refund-policy.html">Refund Policy</a></li>
-        <li><a href="terms-conditions.html">Terms & Conditions</a></li>
-        </ul>
-        </div>
-        </div>
-        <div class="row mt100">
-        <div class="col-lg-12">
-        <h3>Shortcodes</h3>
-        </div>
-        <div class="col-lg-12 mt30">
-        <ul class="linklist sw-hover-2">
-        <li><a href="hero-1.html">Header Hero 1 <span class="badge text-bg-warning">New</span></a></li>
-        <li><a href="hero-2.html">Header Hero 2 <span class="badge text-bg-warning">New</span></a></li>
-        <li><a href="hero-3.html">Header Hero 3 <span class="badge text-bg-warning">New</span></a></li>
-        <li><a href="faqs.html">FAQs</a></li>
-        <li><a href="header-1.html">Header 1 <span class="badge text-bg-warning">New</span></a></li>
-        <li><a href="footer-1.html">Footer 1</a></li>
-        <li><a href="footer-2.html">Footer 2</a></li>
-        <li><a href="footer-3.html">Footer 3</a></li>
-        <li><a href="footer-4.html">Footer 4</a></li>
-        <li><a href="about-1.html">Particle Background</a></li>
-        <li><a href="service-page-1.html">Progressbar</a></li>
-        <li><a href="advanced-contact-form.html">Advance Contact Form</a></li>
-        </ul>
-        </div>
-        </div>
-        </div>
-        </section>
+    <section class="demo-7-hero text-white">
+    <div class="herodiv">
+    <video autoplay muted loop id="myVideo" poster="images/object/worlds.jpg">
+    <source src="images/object/worlds.mp4" type="video/mp4">
+    </video>
+    </div>
+    <div class="container-fluid index-up">
+    <div class="row justify-content-center">
+    <div class="col-lg-5">
+    <div class="hero-content">
+    <h1 class="mb20 wow fadeInUp" data-wow-delay=".8s"> Design Products<br> Deliver Experience </h1>
+    <p class="wow fadeInUp" data-wow-delay="1.2s">A full-service digital marketing firm that specialises in human-centered experiences. We bring companies and people together.</p>
+    <a href="contact-1.html" class="sw-btn sw-blue-btn wow fadeInUp mt40" data-wow-delay="1.4s">Get Started <i class="fa-solid fa-arrow-trend-up"></i></a>
+    <div class="hero-iconsets wow fadeInUp" data-wow-delay="1.6s">
+    <a href="#"><img src="images/icons/goodfirm-1.svg" alt="img"></a>
+    <a href="#"><img src="images/icons/clutch-1.svg" alt="img"></a>
+    <a href="#"><img src="images/icons/google-1.svg" alt="img"></a>
+    </div>
+    </div>
+    </div>
+    <div class="col-lg-7 mmt40">
+    <div class="hero-rght-sw wow fadeInUp" data-wow-delay="1.8s">
+    <div class="video-button"> <a href="https://www.youtube.com/watch?v=Aty3TV4Yn4I" class="video-play"> <span class="play-btn"> <i class="fa fa-play"></i> </span> </a> </div>
+    <h3>We Design Digital Solutions <span>For Brands, Companies & Startups. </span></h3>
+    </div>
+    <div class="cardsevc service--cards owl-carousel wow fadeInUp" data-wow-delay="2.5s">
+    <div class="service-card-div service-slide">
+    <a href="#">
+    <div class="service-images"><img src="images/object/Other-07.png" alt="#"></div>
+    <div class="service-name">Web <br> Design </div>
+    <div class="circleffect">
+    <div class="animation">&nbsp;</div>
+    </div>
+    </a>
+    </div>
+    <div class="service-card-div service-slide">
+    <a href="#">
+    <div class="service-images"><img src="images/object/Other-04.png" alt="#"></div>
+    <div class="service-name">App <br> Development </div>
+    <div class="circleffect">
+    <div class="animation">&nbsp;</div>
+    </div>
+    </a>
+    </div>
+    <div class="service-card-div service-slide">
+    <a href="#">
+    <div class="service-images"><img src="images/object/Other-20.png" alt="#"></div>
+    <div class="service-name">Graphic <br> Design </div>
+    <div class="circleffect">
+    <div class="animation">&nbsp;</div>
+    </div>
+    </a>
+    </div>
+    <div class="service-card-div service-slide">
+    <a href="#">
+    <div class="service-images"><img src="images/object/Other-11.png" alt="#"></div>
+    <div class="service-name">Blockchain <br> Development </div>
+    <div class="circleffect">
+    <div class="animation">&nbsp;</div>
+    </div>
+    </a>
+    </div>
+    <div class="service-card-div service-slide">
+    <a href="#">
+    <div class="service-images"><img src="images/object/Other-16.png" alt="#"></div>
+    <div class="service-name">Ecommerce <br> Development </div>
+    <div class="circleffect">
+    <div class="animation">&nbsp;</div>
+    </div>
+    </a>
+    </div>
+    <div class="service-card-div service-slide">
+    <a href="#">
+    <div class="service-images"><img src="images/object/Other-13.png" alt="#"></div>
+    <div class="service-name">Digital <br> Marketing </div>
+    <div class="circleffect">
+    <div class="animation">&nbsp;</div>
+    </div>
+    </a>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </section>
 
 
-        <div class="cta-block-sw-bkt pb80">
-        <div class="container">
-        <div class="row">
-        <div class="col-lg-12">
-        <div class="cta-design-block-sw gradient-2 v-center">
-        <div class="cta-info-div-bkt">
-        <h3 class="mb15">Bluekat has everything an agency's website should have.</h3>
-        <p>So buy Bluekat license from Templatemonster today and build your company's website.</p>
-        <a href="https://www.templatemonster.com/website-templates/blueket-digital-agency-amp-portfolio-html-template-241010.html" class="sw-btn sw-white-btn wow fadeInUp mt30" data-wow-delay=".7s">Purchase Now <i class="fa-solid fa-cart-shopping"></i></a>
-        </div>
-        <div class="cta-img-div-bkt"><img src="{{ asset('images/common/app-mockup-2.svg') }}" alt="img"></div>
-        </div>
-        </div>
-        </div>
-        </div>
-        </div>
+    <section class="aboutblock section-space">
+    <div class="container">
+    <div class="row justify-content-between">
+    <div class="col-lg-6">
+    <div class="about-conent paragraph">
+    <span class="scriptheading dashbefore mb15 wow fadeIn" data-wow-delay=".2s" data-wow-duration="1500ms">WHO WE ARE</span>
+    <h2 class="mb20 wow fadeIn" data-wow-delay=".4s" data-wow-duration="1500ms">Hire the Best Web and Mobile App Developers For Your Project</h2>
+    <p class="wow fadeIn" data-wow-delay=".6s" data-wow-duration="1500ms">Expertise helps Blueket tackle the world's most difficult challenges. Blueket provides digital products for worldwide brands on the web, mobile, and linked platforms. Expertise helps Blueket tackle the world's most difficult challenges. Blueket provides digital products for worldwide brands on the web, mobile, and linked platforms.</p>
+    <p class="wow fadeIn" data-wow-delay=".8s" data-wow-duration="1500ms">Expertise helps Blueket tackle the world's most difficult challenges. Blueket provides digital products for worldwide brands on the web.</p>
+    <a href="contact-1.html" class="sw-btn sw-blue-btn mt30">Read More</a>
+    </div>
+    </div>
+    <div class="col-lg-5 mmt40">
+    <div class="row blockcntr swpt1">
+    <div class="counter-numbers  demo2counter col-lg-6 col-md-12">
+    <div class="counter-setdiv shadow wow fadeIn" data-wow-delay=".1s">
+    <img src="images/icons/rocket.gif" alt="img">
+    <p> <span data-count-to="08" class="odometer"></span>+</p>
+    <span class="countertag">Years Experience</span>
+    </div>
+    <div class="counter-setdiv shadow wow fadeIn" data-wow-delay=".7s">
+    <img src="images/icons/laptop.gif" alt="img">
+    <p><span data-count-to="500" class="odometer"></span>+</p>
+    <span class="countertag">Projects Delivered</span>
+    </div>
+    </div>
+    <div class="counter-numbers  demo2counter col-lg-6 col-md-12 seccnt">
+    <div class="counter-setdiv shadow wow fadeIn" data-wow-delay=".4s">
+    <img src="images/icons/user.gif" alt="img">
+    <p><span data-count-to="80" class="odometer"></span>+</p>
+    <span class="countertag">Talented Team</span>
+    </div>
+    <div class="counter-setdiv shadow wow fadeIn" data-wow-delay="1s">
+    <img src="images/icons/earth.gif" alt="img">
+    <p><span data-count-to="50" class="odometer"></span>+</p>
+    <span class="countertag">Countries Served</span>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </section>
 
 
-        <section class="section-space bkbg3">
-        <div class="container">
-        <div class="row justify-content-between">
-        <div class="col-lg-6">
-        <div class="about-conent paragraph">
-        <h2 class="wow fadeInUp" data-wow-delay=".2s">Do You Endeavour to Redesign Your Creative Agency's Website?</h2>
-        </div>
-        </div>
-        <div class="col-lg-5 mmt40">
-        <div class="about-conent paragraph">
-        <h4 class="mb15 wow fadeInUp" data-wow-delay=".3s">Then You're On The Right Track.</h4>
-        <p class="wow fadeInUp" data-wow-delay=".4s">Blueket has Impressive features to build your website creatively and fast. The template has been created with such care that it is ready to suit all of your requirements.</p>
-        </div>
-        </div>
-        </div>
-        <div class="row mt30">
-        <div class="col-lg-4 mt30">
-        <div class="sw-card swbdr">
-        <div class="cardicon"><img src="{{ asset('images/demo/edit.png') }}" alt="icon"></div>
-        <h4>Fully Customizable</h4>
-        <p>Our template is fully customizable. You can change color combinations, fonts, icons, contents, images, etc. You can also add custom CSS, animation and blocks.</p>
-        </div>
-        </div>
-        <div class="col-lg-4 mt30">
-        <div class="sw-card swbdr">
-        <div class="cardicon"><img src="{{ asset('images/demo/paid-content.png') }}" alt="icon"></div>
-        <h4>Premium Assets</h4>
-        <p>We'll assist you with blueket's premium assets. It helps you save time and money. Simply drop us an email, and our team will be more than happy to assist you.</p>
-        </div>
-        </div>
-        <div class="col-lg-4 mt30">
-        <div class="sw-card swbdr">
-        <div class="cardicon"><img src="{{ asset('images/demo/feature.png') }}" alt="icon"></div>
-        <h4>Feature Request</h4>
-        <p>All of our clients' feature requests are accommodated by us. Please contact us if you'd like a custom design in blueket. In updates, we'll integrate it.</p>
-        </div>
-        </div>
-        <div class="col-lg-4 mt30">
-        <div class="sw-card swbdr">
-        <div class="cardicon"><img src="{{ asset('images/demo/code.png') }}" alt="icon"></div>
-        <h4>Easy Coding</h4>
-        <p>Blueket was created using basic HTML5 and CSS3 code that any unskilled designer can grasp. To shorten the coding length, we employ universal coding.</p>
-        </div>
-        </div>
-        <div class="col-lg-4 mt30">
-        <div class="sw-card swbdr">
-        <div class="cardicon"><img src="{{ asset('images/demo/technical-support.png') }}" alt="icon"></div>
-        <h4>Quick Support</h4>
-        <p>All of our clients receive same-day solution. Please contact us if you have any queries or concerns about the template code or anything else.</p>
-        </div>
-        </div>
-        <div class="col-lg-4 mt30">
-        <div class="sw-card swbdr">
-        <div class="cardicon"><img src="{{ asset('images/demo/update.png') }}" alt="icon"></div>
-        <h4>Free Updates</h4>
-        <p>We are always upgrading our products to keep up with the newest trends and technologies. When the updates are ready, you will be notified by email.</p>
-        </div>
-        </div>
-        </div>
-        </div>
-        </section>
+    <section class="section-space bkbg3">
+    <div class="container">
+    <div class="row justify-content-center">
+    <div class="col-xl-7 col-lg-8 text-center">
+    <h2 class="text-gradient-1 mb15 wow fadeIn" data-wow-delay=".2s">Services We Provide</h2>
+    <p class="wow fadeIn" data-wow-delay=".4s">Blueket overcomes challenges, achieves results, and adds value to our clients and partners. Take a look at some of our clients' success stories.</p>
+    </div>
+    </div>
+    <div class="row mt30 dm4">
+    <div class="col-lg-3 col-sm-6 mt30 wow fadeIn" data-wow-delay=".1s">
+    <div class="sw-card white-bg shadow">
+    <img src="images/icons/app.png" alt="icon" class="innercardiocn">
+    <h3 class="swbttitlex">App<br> Development</h3>
+    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+    </div>
+    </div>
+    <div class="col-lg-3 col-sm-6 mt30 wow fadeIn" data-wow-delay=".4s">
+    <div class="sw-card white-bg shadow">
+    <img src="images/icons/ux-design.png" alt="icon" class="innercardiocn">
+    <h3 class="swbttitlex">Web<br> Development</h3>
+    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+    </div>
+    </div>
+    <div class="col-lg-3 col-sm-6 mt30 wow fadeIn" data-wow-delay=".8s">
+    <div class="sw-card white-bg shadow">
+    <img src="images/icons/content.png" alt="icon" class="innercardiocn">
+    <h3 class="swbttitlex">Content<br> Marketing</h3>
+    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+    </div>
+    </div>
+    <div class="col-lg-3 col-sm-6 mt30 wow fadeIn" data-wow-delay="1.2s">
+    <div class="sw-card white-bg shadow">
+    <img src="images/icons/online-shop.png" alt="icon" class="innercardiocn">
+    <h3 class="swbttitlex">eCommerce<br> Development</h3>
+    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+    </div>
+    </div>
+    </div>
+    <div class="row index-up wow fadeIn" data-wow-delay=".8s">
+    <div class="col-lg-12">
+    <div class="tech-slider mt100">
+    <div class="sw-icon-slider owl-carousel">
+    <div class="icon-slider-block">
+    <div class="slider-icon"> <img src="images/icons/tech-icons/android.svg" alt="Android"> </div>
+    <div class="slider-icon-text">
+    <p>Android </p>
+    </div>
+    </div>
+    <div class="icon-slider-block">
+    <div class="slider-icon"> <img src="images/icons/tech-icons/aws.svg" alt="aws"> </div>
+    <div class="slider-icon-text">
+    <p>aws</p>
+    </div>
+    </div>
+    <div class="icon-slider-block">
+    <div class="slider-icon"> <img src="images/icons/tech-icons/figma.svg" alt="figma"> </div>
+    <div class="slider-icon-text">
+    <p>figma</p>
+    </div>
+    </div>
+    <div class="icon-slider-block">
+    <div class="slider-icon"> <img src="images/icons/tech-icons/firebase.svg" alt="firebase"> </div>
+    <div class="slider-icon-text">
+    <p>firebase</p>
+    </div>
+    </div>
+    <div class="icon-slider-block">
+    <div class="slider-icon"> <img src="images/icons/tech-icons/flutter.svg" alt="flutter"> </div>
+    <div class="slider-icon-text">
+    <p>flutter</p>
+    </div>
+    </div>
+    <div class="icon-slider-block">
+    <div class="slider-icon"> <img src="images/icons/tech-icons/Google-cloud.svg" alt="Google-cloud"> </div>
+    <div class="slider-icon-text">
+    <p>Google-cloud</p>
+    </div>
+    </div>
+    <div class="icon-slider-block">
+    <div class="slider-icon"> <img src="images/icons/tech-icons/java.svg" alt="java">
+    </div>
+    <div class="slider-icon-text">
+    <p>Java</p>
+    </div>
+    </div>
+    <div class="icon-slider-block">
+    <div class="slider-icon"> <img src="images/icons/tech-icons/Kotlin.svg" alt="Kotlin"> </div>
+    <div class="slider-icon-text">
+    <p>Kotlin</p>
+    </div>
+    </div>
+    <div class="icon-slider-block">
+    <div class="slider-icon"> <img src="images/icons/tech-icons/magento.svg" alt="magento"> </div>
+    <div class="slider-icon-text">
+    <p>magento</p>
+    </div>
+    </div>
+    <div class="icon-slider-block">
+    <div class="slider-icon"> <img src="images/icons/tech-icons/Node.js.svg" alt="Node.js">
+    </div>
+    <div class="slider-icon-text">
+    <p>Node.js</p>
+    </div>
+    </div>
+    <div class="icon-slider-block">
+    <div class="slider-icon"> <img src="images/icons/tech-icons/python.svg" alt="python">
+    </div>
+    <div class="slider-icon-text">
+    <p>python</p>
+    </div>
+    </div>
+    <div class="icon-slider-block">
+    <div class="slider-icon"> <img src="images/icons/tech-icons/react.svg" alt="react">
+    </div>
+    <div class="slider-icon-text">
+    <p>react</p>
+    </div>
+    </div>
+    <div class="icon-slider-block">
+    <div class="slider-icon"> <img src="images/icons/tech-icons/sketch.svg" alt="sketch">
+    </div>
+    <div class="slider-icon-text">
+    <p>sketch</p>
+    </div>
+    </div>
+    <div class="icon-slider-block">
+    <div class="slider-icon"> <img src="images/icons/tech-icons/sqlite.svg" alt="sqlite">
+    </div>
+    <div class="slider-icon-text">
+    <p>sqlite</p>
+    </div>
+    </div>
+    <div class="icon-slider-block">
+    <div class="slider-icon"> <img src="images/icons/tech-icons/swift.svg" alt="swift">
+    </div>
+    <div class="slider-icon-text">
+    <p>swift</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </section>
 
 
-        <section class="tech-block section-space position-relative overflow-hidden ">
-        <div class="sw-half-circle-block1 shcb index-down"></div>
-        <div class="container index-up">
-        <div class="row justify-content-center">
-        <div class="col-lg-8 text-center">
-        <h2 class="h1 mb20 wow fadeInUp" data-wow-delay=".2s">Purchase The License From TemplateMonster</h2>
-        <p class="wow fadeInUp" data-wow-delay=".4s">Blueket Exclusively available only on <span class="badge text-bg-warning">TemplateMonster</span>. Purchase the Blueket Template License from TemplateMonster and build your fantastic website.</p>
-        <a href="https://www.templatemonster.com/website-templates/blueket-digital-agency-amp-portfolio-html-template-241010.html" class="sw-btn sw-orange-btn wow fadeInUp mt40" data-wow-delay=".6s">Purchase License <i class="fa-solid fa-arrow-trend-up"></i></a>
-        </div>
-        </div>
-        </div>
-        </section>
+    <section class="word-block-div section-space">
+    <div class="container">
+    <div class="row">
+    <div class="col-lg-6">
+    <h2 class="text-gradient-1 wow fadeInUp" data-wow-delay=".4s">Latest Projects</h2>
+    <a href="portfolio.html" class="inline-btn mt20 wow fadeInUp" data-wow-delay=".8s">View all Projects <i class="fa-solid fa-arrow-trend-up"></i></a>
+    </div>
+    <div class="col-lg-6 mmt30">
+    <p class=" wow fadeInUp" data-wow-delay="1.2s">Blueket overcomes challenges, achieves results, and adds value to our clients and partners. Take a look at some of our clients' success stories. Take a look at some of our clients' success stories.</p>
+    </div>
+    </div>
+    </div>
+    <div class="container-fluid mt60">
+    <div class="row  wow fadeInUp" data-wow-delay="1.4s">
+    <div class="col-lg-12">
+    <div class="work-slide owl-carousel full-button centerbtns">
+    <div class="our-works">
+    <div class="work-imags"><a href="#"><img src="images/portfolio/work-1.jpg" alt="work" class="card-img-round"></a></div>
+    <div class="infoblocis">
+    <div class="nameofitem">
+    <h3>Kyntra: Online Shopping</h3>
+    <p class="mt5">Flutter Development</p>
+    </div>
+    </div>
+    </div>
+    <div class="our-works">
+    <div class="work-imags"><a href="#"><img src="images/portfolio/work-2.jpg" alt="work" class="card-img-round"></a></div>
+    <div class="infoblocis">
+    <div class="nameofitem">
+    <h3>Bradley's Bakery</h3>
+    <p class="mt5">Web Design</p>
+    </div>
+    </div>
+    </div>
+    <div class="our-works">
+    <div class="work-imags"><a href="#"><img src="images/portfolio/work-3.jpg" alt="work" class="card-img-round"></a></div>
+    <div class="infoblocis">
+    <div class="nameofitem">
+    <h3>Tango Fashion Store</h3>
+    <p class="mt5">App Development</p>
+    </div>
+    </div>
+    </div>
+    <div class="our-works">
+    <div class="work-imags"><a href="#"><img src="images/portfolio/work-4.jpg" alt="work" class="card-img-round"></a></div>
+    <div class="infoblocis">
+    <div class="nameofitem">
+    <h3>Ruppay Investment</h3>
+    <p class="mt5">iOs Development</p>
+    </div>
+    </div>
+    </div>
+    <div class="our-works">
+    <div class="work-imags"><a href="#"><img src="images/portfolio/work-5.jpg" alt="work" class="card-img-round"></a></div>
+    <div class="infoblocis">
+    <div class="nameofitem">
+    <h3>Kiya NFT Market</h3>
+    <p class="mt5">Web Development</p>
+    </div>
+    </div>
+    </div>
+    <div class="our-works">
+    <div class="work-imags"><a href="#"><img src="images/portfolio/work-3.jpg" alt="work" class="card-img-round"></a></div>
+    <div class="infoblocis">
+    <div class="nameofitem">
+    <h3>Tango Fashion Store</h3>
+    <p class="mt5">App Development</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </section>
+
+
+    <section class="section-space">
+    <div class="container index-up">
+    <div class="row justify-content-between">
+    <div class="col-lg-4">
+    <div class="roundimg"><img src="images/common/attractive-laughing-freelancer.jpg" alt="img" class="w-100"></div>
+    </div>
+    <div class="col-lg-7 mmt40">
+    <h3 class="text-gradient-1 mb15 wow fadeIn" data-wow-delay=".2s">Make your Business Better. Grow your Business</h3>
+    <p class="wow fadeIn" data-wow-delay=".6s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.</p>
+    <p class="wow fadeIn" data-wow-delay=".8s">Blueket overcomes challenges, achieves results, and adds value to our clients and partners. Take a look at some of our clients' success stories. Take a look at some of our clients' success stories.</p>
+    <h5 class="mt30 wow fadeIn" data-wow-delay=".9s">Talk with the expert to grow your business</h5>
+    <ul class="bulletpoints mt30  wow fadeInUp" data-wow-delay="1s">
+    <li>Ut eu lectus non massa rhoncus elementum.</li>
+    <li>Nunc scelerisque urna nec quam efficitur semper.</li>
+    <li>Ut eu lectus non massa rhoncus elementum.</li>
+    </ul>
+    </div>
+    </div>
+    </div>
+
+    <div class="cta-block-sw-bkt ctacnttr">
+    <div class="container">
+    <div class="row">
+    <div class="col-lg-12">
+    <div class="cta-design-block-sw gradient-1 v-center">
+    <div class="cta-info-div-bkt">
+    <h3 class="mb15">Let's Create an Amazing Project Together!</h3>
+    <p>Web design app development for Android & iOS. We have over 5 years of experience in helping companies.</p>
+    <a href="#" class="sw-btn sw-white-btn mt30">Get Started <i class="fa-solid fa-arrow-trend-up"></i></a>
+    </div>
+    <div class="cta-img-div-bkt"><img src="images/common/app-mockup-2.svg" alt="img"></div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+
+    <div class="container index-up">
+    <div class="row justify-content-between">
+    <div class="col-lg-6">
+    <h3 class="text-gradient-1 mb15 wow fadeIn" data-wow-delay=".2s">Get An Exclusively Brewed Digital Solution For Your Business</h3>
+    <p class="wow fadeIn" data-wow-delay=".6s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.</p>
+    <a href="#" class="sw-btn sw-blue-btn mt30 wow fadeInUp" data-wow-delay="1s">Get Started <i class="fa-solid fa-arrow-trend-up"></i></a>
+    <div class="medianumbers mt40">
+    <div class="mediablock wow fadeInUp" data-wow-delay=".8s">
+    <div class="ex---">
+    <div class="progressbar circle-bar orange" data-value="65"></div>
+    </div>
+    <div class="stats-break"></div>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec gravida purus.</p>
+    </div>
+    <div class="mediablock mt30 wow fadeInUp" data-wow-delay="1s">
+    <div class="ex---">
+    <div class="progressbar circle-bar blue" data-value="40"></div>
+    </div>
+    <div class="stats-break"></div>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec gravida purus.</p>
+    </div>
+    </div>
+    </div>
+    <div class="col-lg-4 position-relative mmt40">
+    <div class="roundimg wow fadeIn" data-wow-delay="1.2s"><img src="images/common/company.jpg" alt="img" class="w-100"></div>
+    <div class="img-overthe-card wow fadeIn" data-wow-delay="1.6s">
+    <h4>Excellent Team</h4>
+    <p>Creativ Idea</p>
+    <div class="card-v-light"></div>
+    <div class="mediablock mt30">
+    <div class="user-image wh"><img src="images/common/user-image-3.jpg" alt="review"></div>
+    <div class="user-content">
+    <h5>Riya Smily</h5>
+    <p>Marketing Manager</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </section>
+
+
+    <section class="industry-work section-space bg-efffect-1 bkbg3 pb300">
+    <div class="container index-up">
+    <div class="row">
+    <div class="col-lg-10">
+    <span class="scriptheading dashbefore mb15">We Work In</span>
+    <h2 class="text-gradient-1">Our Industry Wise Solution</h2>
+    </div>
+    </div>
+    <div class="row justify-content-between">
+    <div class="col-lg-12">
+    <div class="cate-with-img-main">
+    <div class="roundiconwithdata wow fadeIn" data-wow-delay=".1s">
+    <div class="imgimg"><img src="images/icons/house.svg" alt="img"> </div>
+    <p>Real Estate</p>
+    </div>
+    <div class="roundiconwithdata wow fadeIn" data-wow-delay=".4s">
+    <div class="imgimg"><img src="images/icons/travel-luggage.svg" alt="img"> </div>
+    <p>Tour & Travels</p>
+    </div>
+    <div class="roundiconwithdata wow fadeIn" data-wow-delay=".7s">
+    <div class="imgimg"><img src="images/icons/magistrate.svg" alt="img"> </div>
+    <p>Education</p>
+    </div>
+    <div class="roundiconwithdata wow fadeIn" data-wow-delay="1s">
+    <div class="imgimg"><img src="images/icons/car.svg" alt="img"> </div>
+    <p>Transport</p>
+    </div>
+    <div class="roundiconwithdata wow fadeIn" data-wow-delay="1.3s">
+    <div class="imgimg"><img src="images/icons/calendar.svg" alt="img"> </div>
+    <p>Event</p>
+    </div>
+    <div class="roundiconwithdata wow fadeIn" data-wow-delay="1.6s">
+    <div class="imgimg"><img src="images/icons/online-shop.svg" alt="img"> </div>
+    <p>eCommerce</p>
+    </div>
+    <div class="roundiconwithdata wow fadeIn" data-wow-delay="1.9s">
+    <div class="imgimg"><img src="images/icons/game-controller.svg" alt="img"> </div>
+    <p>Game</p>
+    </div>
+    <div class="roundiconwithdata wow fadeIn" data-wow-delay="2.2s">
+    <div class="imgimg"><img src="images/icons/healthcare.svg" alt="img"> </div>
+    <p>Healthcare</p>
+    </div>
+    <div class="roundiconwithdata wow fadeIn" data-wow-delay="2.5s">
+    <div class="imgimg"><img src="images/icons/piggy-bank.svg" alt="img"> </div>
+    <p>Finance</p>
+    </div>
+    <div class="roundiconwithdata wow fadeIn" data-wow-delay="2.8s">
+    <div class="imgimg"><img src="images/icons/restaurant.svg" alt="img"> </div>
+    <p>Restaurant</p>
+    </div>
+    <div class="roundiconwithdata wow fadeIn" data-wow-delay="3.1s">
+    <div class="imgimg"><img src="images/icons/layers.svg" alt="img"> </div>
+    <p>On-Demand</p>
+    </div>
+    <div class="roundiconwithdata wow fadeIn" data-wow-delay="3.4s">
+    <div class="imgimg"><img src="images/icons/grocery-bag.svg" alt="img"> </div>
+    <p>Grocery</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </section>
+
+
+    <section class="office-interior imageoutofbox pb100">
+    <div class="container">
+    <div class="row">
+    <div class="col-lg-9">
+    <div class="imageoutbox">
+    <img src="images/common/office-building.jpg" alt="office" class="card-img-round  wow fadeIn" data-wow-delay=".2s">
+    </div>
+    </div>
+    </div>
+    <div class="row mt60 mmt40">
+    <div class="col-lg-6">
+    <div class="title-heading wow fadeIn" data-wow-delay=".4s">
+    <h2>Trusted Web Design Company Since 2008</h2>
+    </div>
+    </div>
+    <div class="col-lg-6 mmt30">
+    <div class="title-paragraph wow fadeIn" data-wow-delay=".6s">
+    <p>We are a Web development company. we provide web design, app development, digital marketing services.
+    As you can imagine, the market is evolving with every new platform and feature added to an website. The number of developers jumping into this field has grown over time which means more users need responsive websites in order for them not only stand out from other ones but also have fast response times when visitors click on your site.
+    </p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </section>
+
+
+    <section class="clients-section section-space bg--1">
+    <div class="container">
+    <div class="row justify-content-center">
+    <div class="col-lg-10 text-center">
+    <span class="scriptheading mb15 wow fadeIn" data-wow-delay=".2s">Review/Feedback</span>
+    <h2 class="text-gradient-1 wow fadeIn" data-wow-delay=".4s">Happy Clients With Digital Transformation</h2>
+    </div>
+    </div>
+    <div class="row mt60">
+    <div class="col-lg-12">
+    <div class="review-slider owl-carousel full-button">
+    <div class="blueket-card-noise card-img-round pt30">
+    <div class="review-img-block">
+    <div class="user-image"><img src="images/common/user-image.jpg" alt="review"></div>
+    <div class="user-content">
+    <h5>Karan Kumar</h5>
+    <p>CTO @ Amber Fund</p>
+    </div>
+    </div>
+    <div class="review-content mt30 mb30">
+    <p>When it comes to website development and SEO, Blueket has been the best company I've worked with so far. We hired them for both of our businesses and have seen a drastic increase in our customer base.</p>
+    </div>
+    <div class="review-footer pair-block">
+    <div class="image-icon">
+    <a href="#"><img src="images/icons/google.png" alt="icon"></a>
+    </div>
+    <div class="starrating">
+    <ul>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    <div class="blueket-card-noise card-img-round pt30">
+    <div class="review-img-block">
+    <div class="user-image"><img src="images/common/user-image-2.jpg" alt="review"></div>
+    <div class="user-content">
+    <h5>Mike Smith</h5>
+    <p>Business Man</p>
+    </div>
+    </div>
+    <div class="review-content mt30 mb30">
+    <p>When it comes to website development and SEO, Blueket has been the best company I've worked with so far. We hired them for both of our businesses and have seen a drastic increase in our customer base.</p>
+    </div>
+    <div class="review-footer pair-block">
+    <div class="image-icon">
+    <a href="#"><img src="images/icons/google.png" alt="icon"></a>
+    </div>
+    <div class="starrating">
+    <ul>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    <div class="blueket-card-noise card-img-round pt30">
+    <div class="review-img-block">
+    <div class="user-image"><img src="images/common/user-image-3.jpg" alt="review"></div>
+    <div class="user-content">
+    <h5>Riya Smily</h5>
+    <p>CEO @ Tema Security</p>
+    </div>
+    </div>
+    <div class="review-content mt30 mb30">
+    <p>When it comes to website development and SEO, Blueket has been the best company I've worked with so far. We hired them for both of our businesses and have seen a drastic increase in our customer base.</p>
+    </div>
+    <div class="review-footer pair-block">
+    <div class="image-icon">
+    <a href="#"><img src="images/icons/google.png" alt="icon"></a>
+    </div>
+    <div class="starrating">
+    <ul>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    <div class="blueket-card-noise card-img-round pt30">
+    <div class="review-img-block">
+    <div class="user-image"><img src="images/common/user-image-4.jpg" alt="review"></div>
+    <div class="user-content">
+    <h5>Oliver Kanjorva</h5>
+    <p>Business Man</p>
+    </div>
+    </div>
+    <div class="review-content mt30 mb30">
+    <p>When it comes to website development and SEO, Blueket has been the best company I've worked with so far. We hired them for both of our businesses and have seen a drastic increase in our customer base.</p>
+    </div>
+    <div class="review-footer pair-block">
+    <div class="image-icon">
+    <a href="#"><img src="images/icons/google.png" alt="icon"></a>
+    </div>
+    <div class="starrating">
+    <ul>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    <li> <a href="javascript:void(0)" class="checked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="row mt60 v-center">
+    <div class="col-lg-4">
+    <h4>Read More Review on</h4>
+    <p class="mt15">Read our client's testimonials all around the web. We deliver quality service that loves everyone.</p>
+    </div>
+    <div class="col-lg-8">
+    <div class="review-links mt30">
+    <a href="#" class="wow fadeIn" data-wow-delay=".2s"><img src="images/clients/trustplot.svg" alt="#"> </a>
+    <a href="#" class="wow fadeIn" data-wow-delay=".4s"><img src="images/clients/clutchreview.svg" alt="#"> </a>
+    <a href="#" class="wow fadeIn" data-wow-delay=".6s"><img src="images/clients/appstore.svg" alt="#"> </a>
+    </div>
+    </div>
+    </div>
+    </div>
+    </section>
+
+
+    <footer class="footer-design-sw pt80 pb30 text-white swdarkfooter">
+    <div class="container index-up">
+    <div class="row justify-content-between">
+    <div class="col-lg-4">
+    <div class="footer-brand-info">
+    <div class="footer-logo-sw">
+    <a href="#"><img src="images/logo-white.svg" alt="logo" class="light"></a>
+    <a href="#"><img src="images/logo-white.svg" alt="logo" class="dark"></a>
+    </div>
+
+    <div class="ft-address-blocks mt60">
+    <div class="subsc-div-sw">
+    <h5>Ready to Move Forward and Get the Latest Insights.</h5>
+    <div class="blueketsubscriptionbox mt30">
+    <form>
+    <div class="form-inputs subsform">
+    <input type="tel" class="form-controls" placeholder="Enter Your Email">
+    <button type="submit" class="sw-orange-btn"><i class="fa-solid fa-paper-plane"></i></button>
+    </div>
+    </form>
+    </div>
+    </div>
+    </div>
+
+
+    <div class="social-link-sw mt40">
+    <span class="linktitle">Follow Us</span>
+    <ul class="footer-social-sw mt10 sw-hover-2">
+    <li><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+    <li> <a href="#"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
+    <li><a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
+    <li><a href="#"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a></li>
+    <li> <a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a> </li>
+    </ul>
+    </div>
+
+    </div>
+    </div>
+    <div class="col-lg-6">
+    <div class="row mt40 sw-hover-1">
+    <div class="col-lg-4 col-md-6 col-6 mt30">
+    <div class="footer-links">
+    <h5 class="linktitle">Company Links</h5>
+    <ul class="mt20">
+    <li><a href="#">About Us</a></li>
+    <li><a href="#">Contact Us</a></li>
+    <li><a href="#">Careers</a></li>
+    <li><a href="#">Our Team</a></li>
+    <li><a href="#">Media Coverage</a></li>
+    <li><a href="#">Referral Program</a></li>
+    <li><a href="#">Case Studies</a></li>
+    <li><a href="#">Client Testimonials</a></li>
+    </ul>
+    </div>
+    </div>
+    <div class="col-lg-4 col-md-6 col-6 mt30">
+    <div class="footer-links">
+    <h5 class="linktitle">Technologies</h5>
+    <ul class="mt20">
+    <li><a href="#">React JS</a></li>
+    <li><a href="#">Laravel</a></li>
+    <li><a href="#">CodeIgniter</a></li>
+    <li><a href="#">Node JS</a></li>
+    <li><a href="#">WordPress</a></li>
+    <li><a href="#">Magento</a></li>
+    <li><a href="#">ReactJS</a></li>
+    <li><a href="#">KnockoutJs</a></li>
+    </ul>
+    </div>
+    </div>
+    <div class="col-lg-4 col-md-6 col-6 mt30">
+    <div class="footer-links">
+    <h5 class="linktitle">Our Services</h5>
+    <ul class="mt20">
+    <li><a href="#">Web Application</a></li>
+    <li><a href="#">Mobile App Development</a></li>
+    <li><a href="#">Microsoft Development</a></li>
+    <li><a href="#">Front End Development</a></li>
+    <li><a href="#">eCommerce Development</a></li>
+    <li><a href="#">Cross-platform App</a></li>
+    <li><a href="#">Opensource Development</a></li>
+    <li><a href="#">UI/UX Design</a></li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+
+    <div class="footerbreak swhr">
+    <div class="award-badge-block mt50">
+    <a href="#"><img src="images/icons/award-badge-1.png" alt="icon"></a>
+    <a href="#"><img src="images/icons/award-badge-2.png" alt="icon"></a>
+    <a href="#"><img src="images/icons/award-badge-3.png" alt="icon"></a>
+    <a href="#"><img src="images/icons/award-badge-5.png" alt="icon"></a>
+    <a href="#"><img src="images/icons/award-badge-6.png" alt="icon"></a>
+    <a href="#"><img src="images/icons/award-badge-7.png" alt="icon"></a>
+    </div>
+    </div>
+
+    <div class="footercreditandrevielinks swhr pt20 mt60">
+    <div class="row">
+    <div class="col-lg-12">
+    <div class="footercreditnote sw-hover-1">
+    <div>
+    <p>© 2022 All Rights Reserved By <a href="#"> Separateweb</a></p>
+    </div>
+    <div class="linkftsw">
+    <ul class="list-h-styled">
+    <li><a href="#">Sitemap</a></li>
+    <li><a href="#">Terms of Use</a></li>
+    <li><a href="#">Privacy Policy</a></li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </footer>
 
     {{-- <!-- @include('admin.transactions.components.addCost')-- --}}
     {{-- @include('admin.transactions.components.editCost') -->-- --}}

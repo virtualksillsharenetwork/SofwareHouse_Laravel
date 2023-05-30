@@ -1,0 +1,109 @@
+
+<div class="preloader">
+    <div class="preloader_inner">0%</div>
+    <div class="loaderlogo"><img src="images/logo-white.svg" alt="logo"></div>
+    </div>
+
+
+    <header class="header animation headerbg">
+    <div class="container-fluid">
+    <div class="wrapper">
+
+    <div class="header-item-left">
+    <a href="index.html" class="brandlogo">
+    <img src="images/logo-white.svg" alt="logo" class="light">
+    <img src="images/logo-black.svg" alt="logo" class="dark">
+    </a>
+    </div>
+
+    <div class="header-item-center hic">
+    <div class="overlay"></div>
+    <nav class="menu animation" id="menu">
+    <div class="menu-mobile-header">
+    <button type="button" class="menu-mobile-arrow"><i class="fa-solid fa-angle-left"></i></button>
+    <div class="menu-mobile-title"></div>
+    <button type="button" class="menu-mobile-close"><i class="fa-solid fa-xmark"></i></button>
+    </div>
+    <ul class="menu-section">
+    <li class="menu-item-has-children">
+    <a href="#.">Demo <i class="fa-solid fa-angle-down"></i></a>
+    <div class="menu-subs menu-column-1">
+    <ul>
+    <li><a href="index.html">All Demo</a></li>
+    <li><a href="demo-marketing-agency.html">Marketing Aggency</a></li>
+    <li><a href="demo-web-design.html">Web Design</a></li>
+    <li><a href="demo-app-development.html">App Development</a></li>
+    <li><a href="demo-business-startup.html">Business & Startup</a></li>
+    <li><a href="demo-graphic-design.html">Graphic Design</a></li>
+    <li><a href="demo-branding-agency.html">Branding Agency</a></li>
+    <li><a href="demo-digital-agency.html">Digital Agency</a></li>
+    <li><a href="demo-freelancer.html">Freelancer Portfolio</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="menu-item-has-children">
+    <a href="#.">About Us <i class="fa-solid fa-angle-down"></i></a>
+    <div class="menu-subs menu-column-1">
+    <ul>
+    <li><a href="about-1.html">About Page 1</a></li>
+    <li><a href="about-2.html">About Page 2</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="menu-item-has-children">
+    <a href="#.">Services <i class="fa-solid fa-angle-down"></i></a>
+    <div class="menu-subs menu-column-1">
+    <ul>
+    <li><a href="service-page-1.html">Service Page 1</a></li>
+    <li><a href="service-page-2.html">Service Page 2</a></li>
+    <li><a href="service-page-3.html">Service Page 3</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="menu-item-has-children">
+    <a href="#.">Portfolio <i class="fa-solid fa-angle-down"></i></a>
+    <div class="menu-subs menu-column-1">
+    <ul>
+    <li><a href="portfolio.html">Portfolio Page 1</a></li>
+    <li><a href="portfolio-2.html">Portfolio Page 2</a></li>
+    <li><a href="portfolio-3.html">Portfolio Page 3</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="menu-item-has-children">
+    <a href="#.">Blogs <i class="fa-solid fa-angle-down"></i></a>
+    <div class="menu-subs menu-column-1">
+    <ul>
+    <li><a href="blogs.html">Blog Page 1</a></li>
+    <li><a href="blogs-2.html">Blog Page 2</a></li>
+    <li><a href="blogs-details.html">Blog Details</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="menu-item-has-children">
+    <a href="#.">Contact Us <i class="fa-solid fa-angle-down"></i></a>
+    <div class="menu-subs menu-column-1">
+    <ul>
+    <li><a href="contact-1.html">Contact Page 1</a></li>
+    <li><a href="contact-2.html">Contact Page 2</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="darkmodeswitch">
+    <div class="switch-wrapper d-none"> <label class="switch" for="blueket"> <input type="checkbox" id="blueket" /> <span class="slider round"></span> </label> </div>
+    </li>
+    </ul>
+    </nav>
+    </div>
+
+    <div class="header-item-right headeraction">
+    <ul>
+    <li><a href="#" class="menu-icon"><i class="fa-solid fa-phone"></i></a> </li>
+    <li><a href="contact-1.html" class="sw-btn sw-orange-btn header-btn">Sign Up </a></li>
+    <li><button type="button" class="menu-mobile-toggle"> <span></span> <span></span> <span></span> <span></span> </button> </li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    </header>
+
