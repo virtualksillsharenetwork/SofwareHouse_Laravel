@@ -1,7 +1,7 @@
 
 <div class="preloader">
     <div class="preloader_inner">0%</div>
-    <div class="loaderlogo"><img src="images/logo-white.svg" alt="logo"></div>
+    <div class="loaderlogo"><img src="images/technopert-nobg.png" alt="logo"></div>
     </div>
 
 
@@ -10,9 +10,9 @@
     <div class="wrapper">
 
     <div class="header-item-left">
-    <a href="index.html" class="brandlogo">
-    <img src="images/logo-white.svg" alt="logo" class="light">
-    <img src="images/logo-black.svg" alt="logo" class="dark">
+    <a href="/" class="brandlogo">
+    <img src="images/technopert-nobg.png" alt="logo" class="light">
+    <img src="images/technopert-nobg.png"  alt="logo" class="dark">
     </a>
     </div>
 
@@ -32,7 +32,7 @@
     <div class="menu-subs menu-column-1">
     <ul>
         <li><a href="index.html">All Services</a></li>
-        <li><a href="demo-marketing-agency.html">Marketing Services</a></li>
+        <li><a href="/portfolio-ceo">Marketing Services</a></li>
         <li><a href="demo-web-design.html">Web Design</a></li>
         <li><a href="demo-app-development.html">App Development</a></li>
         <li><a href="demo-business-startup.html">Business & Startup</a></li>
@@ -60,7 +60,7 @@
     <a href="#.">Portfolio <i class="fa-solid fa-angle-down"></i></a>
     <div class="menu-subs menu-column-1">
     <ul>
-    <li><a href="demo-freelancer.html">CEO Portfolio</a></li>
+    <li><a href="/portfolio-ceo">CEO Portfolio</a></li>
     <li><a href="demo-freelancer.html">Team Porfolio</a></li>
     </ul>
     </div>

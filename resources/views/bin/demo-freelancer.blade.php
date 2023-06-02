@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="en">
 
-<!-- Mirrored from separateweb.com/blueket-TM/demo-freelancer.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 May 2023 04:19:23 GMT -->
 <head>
 <meta charset="utf-8" />
 <title>Blueket - Digital Agency & Portfolio HTML Template</title>

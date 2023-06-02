@@ -19,7 +19,7 @@
     <section class="demo-7-hero text-white">
     <div class="herodiv">
     <video autoplay muted loop id="myVideo" poster="images/object/worlds.jpg">
-    <source src="images/object/worlds.mp4" type="video/mp4">
+    <source src="{{ asset('images/object/worlds.mp4') }}" type="video/mp4">
     </video>
     </div>
     <div class="container-fluid index-up">
@@ -30,9 +30,9 @@
     <p class="wow fadeInUp" data-wow-delay="1.2s">A full-service digital marketing firm that specialises in human-centered experiences.</p>
     <a href="contact-1.html" class="sw-btn sw-blue-btn wow fadeInUp mt40" data-wow-delay="1.4s">Get a quote <i class="fa-solid fa-arrow-trend-up"></i></a>
     <div class="hero-iconsets wow fadeInUp" data-wow-delay="1.6s">
-    <a href="#"><img src="images/icons/goodfirm-1.svg" alt="img"></a>
-    <a href="#"><img src="images/icons/clutch-1.svg" alt="img"></a>
-    <a href="#"><img src="images/icons/google-1.svg" alt="img"></a>
+    <a href="#"><img src="{{ asset('images/icons/goodfirm-1.svg') }}" alt="img"></a>
+    <a href="#"><img src="{{ asset('images/icons/clutch-1.svg') }}" alt="img"></a>
+    <a href="#"><img src="{{ asset('images/icons/google-1.svg') }}" alt="img"></a>
     </div>
     </div>
     </div>
@@ -44,7 +44,7 @@
     <div class="cardsevc service--cards owl-carousel wow fadeInUp" data-wow-delay="2.5s">
     <div class="service-card-div service-slide">
     <a href="#">
-    <div class="service-images"><img src="images/object/Other-07.png" alt="#"></div>
+    <div class="service-images"><img src="{{ asset('images/object/Other-07.png') }}" alt="#"></div>
     <div class="service-name">Web <br> Design </div>
     <div class="circleffect">
     <div class="animation">&nbsp;</div>
@@ -53,7 +53,7 @@
     </div>
     <div class="service-card-div service-slide">
     <a href="#">
-    <div class="service-images"><img src="images/object/Other-04.png" alt="#"></div>
+    <div class="service-images"><img src="{{ asset('images/object/Other-04.png') }}" alt="#"></div>
     <div class="service-name">App <br> Development </div>
     <div class="circleffect">
     <div class="animation">&nbsp;</div>
@@ -62,7 +62,7 @@
     </div>
     <div class="service-card-div service-slide">
     <a href="#">
-    <div class="service-images"><img src="images/object/Other-20.png" alt="#"></div>
+    <div class="service-images"><img src="{{ asset('images/object/Other-20.png') }}" alt="#"></div>
     <div class="service-name">Graphic <br> Design </div>
     <div class="circleffect">
     <div class="animation">&nbsp;</div>
@@ -71,7 +71,7 @@
     </div>
     <div class="service-card-div service-slide">
     <a href="#">
-    <div class="service-images"><img src="images/object/Other-11.png" alt="#"></div>
+    <div class="service-images"><img src="{{ asset('images/object/Other-11.png') }}" alt="#"></div>
     <div class="service-name">Web Application <br> Development </div>
     <div class="circleffect">
     <div class="animation">&nbsp;</div>
@@ -80,7 +80,7 @@
     </div>
     <div class="service-card-div service-slide">
     <a href="#">
-    <div class="service-images"><img src="images/object/Other-16.png" alt="#"></div>
+    <div class="service-images"><img src="{{ asset('images/object/Other-16.png') }}" alt="#"></div>
     <div class="service-name">Ecommerce <br> Development </div>
     <div class="circleffect">
     <div class="animation">&nbsp;</div>
@@ -89,7 +89,7 @@
     </div>
     <div class="service-card-div service-slide">
     <a href="#">
-    <div class="service-images"><img src="images/object/Other-13.png" alt="#"></div>
+    <div class="service-images"><img src="{{ asset('images/object/Other-13.png') }}" alt="#"></div>
     <div class="service-name">Digital <br> Marketing </div>
     <div class="circleffect">
     <div class="animation">&nbsp;</div>
@@ -119,24 +119,24 @@
     <div class="row blockcntr swpt1">
     <div class="counter-numbers  demo2counter col-lg-6 col-md-12">
     <div class="counter-setdiv shadow wow fadeIn" data-wow-delay=".1s">
-    <img src="images/icons/rocket.gif" alt="img">
+    <img src="{{ asset('images/icons/rocket.gif') }}" alt="img">
     <p> <span data-count-to="08" class="odometer"></span>+</p>
     <span class="countertag">Years Experience</span>
     </div>
     <div class="counter-setdiv shadow wow fadeIn" data-wow-delay=".7s">
-    <img src="images/icons/laptop.gif" alt="img">
+    <img src="{{ asset('images/icons/laptop.gif') }}" alt="img">
     <p><span data-count-to="500" class="odometer"></span>+</p>
     <span class="countertag">Projects Delivered</span>
     </div>
     </div>
     <div class="counter-numbers  demo2counter col-lg-6 col-md-12 seccnt">
     <div class="counter-setdiv shadow wow fadeIn" data-wow-delay=".4s">
-    <img src="images/icons/user.gif" alt="img">
+    <img src="{{ asset('images/icons/user.gif') }}" alt="img">
     <p><span data-count-to="80" class="odometer"></span>+</p>
     <span class="countertag">Talented Team</span>
     </div>
     <div class="counter-setdiv shadow wow fadeIn" data-wow-delay="1s">
-    <img src="images/icons/earth.gif" alt="img">
+    <img src="{{ asset('images/icons/earth.gif') }}" alt="img">
     <p><span data-count-to="50" class="odometer"></span>+</p>
     <span class="countertag">Countries Served</span>
     </div>
@@ -159,28 +159,28 @@
     <div class="row mt30 dm4">
     <div class="col-lg-3 col-sm-6 mt30 wow fadeIn" data-wow-delay=".1s">
     <div class="sw-card white-bg shadow">
-    <img src="images/icons/app.png" alt="icon" class="innercardiocn">
+    <img src="{{ asset('images/icons/app.png') }}" alt="icon" class="innercardiocn">
     <h3 class="swbttitlex">App<br> Development</h3>
     <p>Unleash your app's potential with our extraordinary development expertise.</p>
     </div>
     </div>
     <div class="col-lg-3 col-sm-6 mt30 wow fadeIn" data-wow-delay=".4s">
     <div class="sw-card white-bg shadow">
-    <img src="images/icons/ux-design.png" alt="icon" class="innercardiocn">
+    <img src="{{ asset('images/icons/ux-design.png') }}" alt="icon" class="innercardiocn">
     <h3 class="swbttitlex">Web<br> Development</h3>
     <p>Unleash your app's potential with our extraordinary development expertise.</p>
     </div>
     </div>
     <div class="col-lg-3 col-sm-6 mt30 wow fadeIn" data-wow-delay=".8s">
     <div class="sw-card white-bg shadow">
-    <img src="images/icons/content.png" alt="icon" class="innercardiocn">
+    <img src="{{ asset('images/icons/content.png') }}" alt="icon" class="innercardiocn">
     <h3 class="swbttitlex">Content<br> Marketing</h3>
     <p>Ignite your brand's growth with our exceptional content marketing strategies.</p>
     </div>
     </div>
     <div class="col-lg-3 col-sm-6 mt30 wow fadeIn" data-wow-delay="1.2s">
     <div class="sw-card white-bg shadow">
-    <img src="images/icons/online-shop.png" alt="icon" class="innercardiocn">
+    <img src="{{ asset('images/icons/online-shop.png') }}" alt="icon" class="innercardiocn">
     <h3 class="swbttitlex">eCommerce<br> Development</h3>
     <p>Elevate your online business with our exceptional e-commerce development solutions.</p>
     </div>
@@ -191,97 +191,97 @@
     <div class="tech-slider mt100">
     <div class="sw-icon-slider owl-carousel">
     <div class="icon-slider-block">
-    <div class="slider-icon"> <img src="images/icons/tech-icons/android.svg" alt="Android"> </div>
+    <div class="slider-icon"> <img src="{{ asset('images/icons/tech-icons/android.svg') }}" alt="Android"> </div>
     <div class="slider-icon-text">
     <p>Android </p>
     </div>
     </div>
     <div class="icon-slider-block">
-    <div class="slider-icon"> <img src="images/icons/tech-icons/aws.svg" alt="aws"> </div>
+    <div class="slider-icon"> <img src="{{ asset('images/icons/tech-icons/aws.svg') }}" alt="aws"> </div>
     <div class="slider-icon-text">
     <p>aws</p>
     </div>
     </div>
     <div class="icon-slider-block">
-    <div class="slider-icon"> <img src="images/icons/tech-icons/figma.svg" alt="figma"> </div>
+    <div class="slider-icon"> <img src="{{ asset('images/icons/tech-icons/figma.svg') }}" alt="figma"> </div>
     <div class="slider-icon-text">
     <p>figma</p>
     </div>
     </div>
     <div class="icon-slider-block">
-    <div class="slider-icon"> <img src="images/icons/tech-icons/firebase.svg" alt="firebase"> </div>
+    <div class="slider-icon"> <img src="{{ asset('images/icons/tech-icons/firebase.svg') }}" alt="firebase"> </div>
     <div class="slider-icon-text">
     <p>firebase</p>
     </div>
     </div>
     <div class="icon-slider-block">
-    <div class="slider-icon"> <img src="images/icons/tech-icons/flutter.svg" alt="flutter"> </div>
+    <div class="slider-icon"> <img src="{{ asset('images/icons/tech-icons/flutter.svg') }}" alt="flutter"> </div>
     <div class="slider-icon-text">
     <p>flutter</p>
     </div>
     </div>
     <div class="icon-slider-block">
-    <div class="slider-icon"> <img src="images/icons/tech-icons/Google-cloud.svg" alt="Google-cloud"> </div>
+    <div class="slider-icon"> <img src="{{ asset('images/icons/tech-icons/Google-cloud.svg') }}" alt="Google-cloud"> </div>
     <div class="slider-icon-text">
     <p>Google-cloud</p>
     </div>
     </div>
     <div class="icon-slider-block">
-    <div class="slider-icon"> <img src="images/icons/tech-icons/java.svg" alt="java">
+    <div class="slider-icon"> <img src="{{ asset('images/icons/tech-icons/java.svg') }}" alt="java">
     </div>
     <div class="slider-icon-text">
     <p>Java</p>
     </div>
     </div>
     <div class="icon-slider-block">
-    <div class="slider-icon"> <img src="images/icons/tech-icons/Kotlin.svg" alt="Kotlin"> </div>
+    <div class="slider-icon"> <img src="{{ asset('images/icons/tech-icons/Kotlin.svg') }}" alt="Kotlin"> </div>
     <div class="slider-icon-text">
     <p>Kotlin</p>
     </div>
     </div>
     <div class="icon-slider-block">
-    <div class="slider-icon"> <img src="images/icons/tech-icons/magento.svg" alt="magento"> </div>
+    <div class="slider-icon"> <img src="{{ asset('images/icons/tech-icons/magento.svg') }}" alt="magento"> </div>
     <div class="slider-icon-text">
     <p>magento</p>
     </div>
     </div>
     <div class="icon-slider-block">
-    <div class="slider-icon"> <img src="images/icons/tech-icons/Node.js.svg" alt="Node.js">
+    <div class="slider-icon"> <img src="{{ asset('images/icons/tech-icons/Node.js.svg') }}" alt="Node.js">
     </div>
     <div class="slider-icon-text">
     <p>Node.js</p>
     </div>
     </div>
     <div class="icon-slider-block">
-    <div class="slider-icon"> <img src="images/icons/tech-icons/python.svg" alt="python">
+    <div class="slider-icon"> <img src="{{ asset('images/icons/tech-icons/python.svg') }}" alt="python">
     </div>
     <div class="slider-icon-text">
     <p>python</p>
     </div>
     </div>
     <div class="icon-slider-block">
-    <div class="slider-icon"> <img src="images/icons/tech-icons/react.svg" alt="react">
+    <div class="slider-icon"> <img src="{{ asset('images/icons/tech-icons/react.svg') }}" alt="react">
     </div>
     <div class="slider-icon-text">
     <p>react</p>
     </div>
     </div>
     <div class="icon-slider-block">
-    <div class="slider-icon"> <img src="images/icons/tech-icons/sketch.svg" alt="sketch">
+    <div class="slider-icon"> <img src="{{ asset('images/icons/tech-icons/sketch.svg') }}" alt="sketch">
     </div>
     <div class="slider-icon-text">
     <p>sketch</p>
     </div>
     </div>
     <div class="icon-slider-block">
-    <div class="slider-icon"> <img src="images/icons/tech-icons/sqlite.svg" alt="sqlite">
+    <div class="slider-icon"> <img src="{{ asset('images/icons/tech-icons/sqlite.svg') }}" alt="sqlite">
     </div>
     <div class="slider-icon-text">
     <p>sqlite</p>
     </div>
     </div>
     <div class="icon-slider-block">
-    <div class="slider-icon"> <img src="images/icons/tech-icons/swift.svg" alt="swift">
+    <div class="slider-icon"> <img src="{{ asset('images/icons/tech-icons/swift.svg') }}" alt="swift">
     </div>
     <div class="slider-icon-text">
     <p>swift</p>
@@ -312,7 +312,7 @@
     <div class="col-lg-12">
     <div class="work-slide owl-carousel full-button centerbtns">
     <div class="our-works">
-    <div class="work-imags"><a href="#"><img src="images/portfolio/work-1.jpg" alt="work" class="card-img-round"></a></div>
+    <div class="work-imags"><a href="#"><img src="{{ asset('images/portfolio/work-1.jpg') }}" alt="work" class="card-img-round"></a></div>
     <div class="infoblocis">
     <div class="nameofitem">
     <h3>Kyntra: Online Shopping</h3>
@@ -321,7 +321,7 @@
     </div>
     </div>
     <div class="our-works">
-    <div class="work-imags"><a href="#"><img src="images/portfolio/work-2.jpg" alt="work" class="card-img-round"></a></div>
+    <div class="work-imags"><a href="#"><img src="{{ asset('images/portfolio/work-2.jpg') }}" alt="work" class="card-img-round"></a></div>
     <div class="infoblocis">
     <div class="nameofitem">
     <h3>Bradley's Bakery</h3>
@@ -330,7 +330,7 @@
     </div>
     </div>
     <div class="our-works">
-    <div class="work-imags"><a href="#"><img src="images/portfolio/work-3.jpg" alt="work" class="card-img-round"></a></div>
+    <div class="work-imags"><a href="#"><img src="{{ asset('images/portfolio/work-3.jpg') }}" alt="work" class="card-img-round"></a></div>
     <div class="infoblocis">
     <div class="nameofitem">
     <h3>Tango Fashion Store</h3>
@@ -339,7 +339,7 @@
     </div>
     </div>
     <div class="our-works">
-    <div class="work-imags"><a href="#"><img src="images/portfolio/work-4.jpg" alt="work" class="card-img-round"></a></div>
+    <div class="work-imags"><a href="#"><img src="{{ asset('images/portfolio/work-4.jpg') }}" alt="work" class="card-img-round"></a></div>
     <div class="infoblocis">
     <div class="nameofitem">
     <h3>Ruppay Investment</h3>
@@ -348,7 +348,7 @@
     </div>
     </div>
     <div class="our-works">
-    <div class="work-imags"><a href="#"><img src="images/portfolio/work-5.jpg" alt="work" class="card-img-round"></a></div>
+    <div class="work-imags"><a href="#"><img src="{{ asset('images/portfolio/work-5.jpg') }}" alt="work" class="card-img-round"></a></div>
     <div class="infoblocis">
     <div class="nameofitem">
     <h3>Kiya NFT Market</h3>
@@ -357,7 +357,7 @@
     </div>
     </div>
     <div class="our-works">
-    <div class="work-imags"><a href="#"><img src="images/portfolio/work-3.jpg" alt="work" class="card-img-round"></a></div>
+    <div class="work-imags"><a href="#"><img src="{{ asset('images/portfolio/work-3.jpg') }}" alt="work" class="card-img-round"></a></div>
     <div class="infoblocis">
     <div class="nameofitem">
     <h3>Tango Fashion Store</h3>
@@ -376,7 +376,7 @@
     <div class="container index-up">
     <div class="row justify-content-between">
     <div class="col-lg-4">
-    <div class="roundimg"><img src="images/common/attractive-laughing-freelancer.jpg" alt="img" class="w-100"></div>
+    <div class="roundimg"><img src="{{ asset('images/common/attractive-laughing-freelancer.jpg') }}" alt="img" class="w-100"></div>
     </div>
     <div class="col-lg-7 mmt40">
     <h3 class="text-gradient-1 mb15 wow fadeIn" data-wow-delay=".2s">Elevate Your Business. Unlock Growth Potential</h3>
@@ -402,7 +402,7 @@
     <p>Web design app development for Android & iOS. We have over 5 years of experience in helping companies.</p>
     <a href="#" class="sw-btn sw-white-btn mt30">Get Started <i class="fa-solid fa-arrow-trend-up"></i></a>
     </div>
-    <div class="cta-img-div-bkt"><img src="images/common/app-mockup-2.svg" alt="img"></div>
+    <div class="cta-img-div-bkt"><img src="{{ asset('images/common/app-mockup-2.svg') }}" alt="img"></div>
     </div>
     </div>
     </div>
@@ -433,16 +433,16 @@
     </div>
     </div>
     <div class="col-lg-4 position-relative mmt40">
-    <div class="roundimg wow fadeIn" data-wow-delay="1.2s"><img src="images/common/company.jpg" alt="img" class="w-100"></div>
+    <div class="roundimg wow fadeIn" data-wow-delay="1.2s"><img src="{{ asset('images/common/company.jpg') }}" alt="img" class="w-100"></div>
     <div class="img-overthe-card wow fadeIn" data-wow-delay="1.6s">
-    <h4>Excellent Team</h4>
+    <h4>Excellent Executive</h4>
     <p>TechnoPert</p>
     <div class="card-v-light"></div>
     <div class="mediablock mt30">
-    <div class="user-image wh"><img src="images/common/user-image-3.jpg" alt="review"></div>
+    <div class="user-image wh"><img src="{{ asset('images/team/mabidm.jpg') }}" alt="review"></div>
     <div class="user-content">
-    <h5>Riya Smily</h5>
-    <p>Marketing Manager</p>
+    <h5>Muhammad Abid Maqbool</h5>
+    <p>CEO at TechnoPert</p>
     </div>
     </div>
     </div>
@@ -464,51 +464,51 @@
     <div class="col-lg-12">
     <div class="cate-with-img-main">
     <div class="roundiconwithdata wow fadeIn" data-wow-delay=".1s">
-    <div class="imgimg"><img src="images/icons/house.svg" alt="img"> </div>
+    <div class="imgimg"><img src="{{ asset('images/icons/house.svg') }}" alt="img"> </div>
     <p>Real Estate</p>
     </div>
     <div class="roundiconwithdata wow fadeIn" data-wow-delay=".4s">
-    <div class="imgimg"><img src="images/icons/travel-luggage.svg" alt="img"> </div>
+    <div class="imgimg"><img src="{{ asset('images/icons/travel-luggage.svg') }}" alt="img"> </div>
     <p>Tour & Travels</p>
     </div>
     <div class="roundiconwithdata wow fadeIn" data-wow-delay=".7s">
-    <div class="imgimg"><img src="images/icons/magistrate.svg" alt="img"> </div>
+    <div class="imgimg"><img src="{{ asset('images/icons/magistrate.svg') }}" alt="img"> </div>
     <p>Education</p>
     </div>
     <div class="roundiconwithdata wow fadeIn" data-wow-delay="1s">
-    <div class="imgimg"><img src="images/icons/car.svg" alt="img"> </div>
+    <div class="imgimg"><img src="{{ asset('images/icons/car.svg') }}" alt="img"> </div>
     <p>Transport</p>
     </div>
     <div class="roundiconwithdata wow fadeIn" data-wow-delay="1.3s">
-    <div class="imgimg"><img src="images/icons/calendar.svg" alt="img"> </div>
+    <div class="imgimg"><img src="{{ asset('images/icons/calendar.svg') }}" alt="img"> </div>
     <p>Event</p>
     </div>
     <div class="roundiconwithdata wow fadeIn" data-wow-delay="1.6s">
-    <div class="imgimg"><img src="images/icons/online-shop.svg" alt="img"> </div>
+    <div class="imgimg"><img src="{{ asset('images/icons/online-shop.svg') }}" alt="img"> </div>
     <p>eCommerce</p>
     </div>
     <div class="roundiconwithdata wow fadeIn" data-wow-delay="1.9s">
-    <div class="imgimg"><img src="images/icons/game-controller.svg" alt="img"> </div>
+    <div class="imgimg"><img src="{{ asset('images/icons/game-controller.svg') }}" alt="img"> </div>
     <p>Game</p>
     </div>
     <div class="roundiconwithdata wow fadeIn" data-wow-delay="2.2s">
-    <div class="imgimg"><img src="images/icons/healthcare.svg" alt="img"> </div>
+    <div class="imgimg"><img src="{{ asset('images/icons/healthcare.svg') }}" alt="img"> </div>
     <p>Healthcare</p>
     </div>
     <div class="roundiconwithdata wow fadeIn" data-wow-delay="2.5s">
-    <div class="imgimg"><img src="images/icons/piggy-bank.svg" alt="img"> </div>
+    <div class="imgimg"><img src="{{ asset('images/icons/piggy-bank.svg') }}" alt="img"> </div>
     <p>Finance</p>
     </div>
     <div class="roundiconwithdata wow fadeIn" data-wow-delay="2.8s">
-    <div class="imgimg"><img src="images/icons/restaurant.svg" alt="img"> </div>
+    <div class="imgimg"><img src="{{ asset('images/icons/restaurant.svg') }}" alt="img"> </div>
     <p>Restaurant</p>
     </div>
     <div class="roundiconwithdata wow fadeIn" data-wow-delay="3.1s">
-    <div class="imgimg"><img src="images/icons/layers.svg" alt="img"> </div>
+    <div class="imgimg"><img src="{{ asset('images/icons/layers.svg') }}" alt="img"> </div>
     <p>On-Demand</p>
     </div>
     <div class="roundiconwithdata wow fadeIn" data-wow-delay="3.4s">
-    <div class="imgimg"><img src="images/icons/grocery-bag.svg" alt="img"> </div>
+    <div class="imgimg"><img src="{{ asset('images/icons/grocery-bag.svg') }}" alt="img"> </div>
     <p>Grocery</p>
     </div>
     </div>
@@ -523,7 +523,7 @@
     <div class="row">
     <div class="col-lg-9">
     <div class="imageoutbox">
-    <img src="images/common/office-building.jpg" alt="office" class="card-img-round  wow fadeIn" data-wow-delay=".2s">
+    <img src="{{ asset('images/common/office-building.jpg') }}" alt="office" class="card-img-round  wow fadeIn" data-wow-delay=".2s">
     </div>
     </div>
     </div>
@@ -558,7 +558,7 @@
     <div class="review-slider owl-carousel full-button">
     <div class="TechnoPert-card-noise card-img-round pt30">
     <div class="review-img-block">
-    <div class="user-image"><img src="images/common/user-image.jpg" alt="review"></div>
+    <div class="user-image"><img src="{{ asset('images/common/user-image.jpg') }}" alt="review"></div>
     <div class="user-content">
     <h5>Karan Kumar</h5>
     <p>CTO @ Amber Fund</p>
@@ -569,7 +569,7 @@
     </div>
     <div class="review-footer pair-block">
     <div class="image-icon">
-    <a href="#"><img src="images/icons/google.png" alt="icon"></a>
+    <a href="#"><img src="{{ asset('images/icons/google.png') }}" alt="icon"></a>
     </div>
     <div class="starrating">
     <ul>
@@ -584,7 +584,7 @@
     </div>
     <div class="TechnoPert-card-noise card-img-round pt30">
     <div class="review-img-block">
-    <div class="user-image"><img src="images/common/user-image-2.jpg" alt="review"></div>
+    <div class="user-image"><img src="{{ asset('images/common/user-image-2.jpg') }}" alt="review"></div>
     <div class="user-content">
     <h5>Mike Smith</h5>
     <p>Business Man</p>
@@ -595,7 +595,7 @@
     </div>
     <div class="review-footer pair-block">
     <div class="image-icon">
-    <a href="#"><img src="images/icons/google.png" alt="icon"></a>
+    <a href="#"><img src="{{ asset('images/icons/google.png') }}" alt="icon"></a>
     </div>
     <div class="starrating">
     <ul>
@@ -610,7 +610,7 @@
     </div>
     <div class="TechnoPert-card-noise card-img-round pt30">
     <div class="review-img-block">
-    <div class="user-image"><img src="images/common/user-image-3.jpg" alt="review"></div>
+    <div class="user-image"><img src="{{ asset('images/common/user-image-3.jpg') }}" alt="review"></div>
     <div class="user-content">
     <h5>Riya Smily</h5>
     <p>CEO @ Tema Security</p>
@@ -621,7 +621,7 @@
     </div>
     <div class="review-footer pair-block">
     <div class="image-icon">
-    <a href="#"><img src="images/icons/google.png" alt="icon"></a>
+    <a href="#"><img src="{{ asset('images/icons/google.png') }}" alt="icon"></a>
     </div>
     <div class="starrating">
     <ul>
@@ -636,7 +636,7 @@
     </div>
     <div class="TechnoPert-card-noise card-img-round pt30">
     <div class="review-img-block">
-    <div class="user-image"><img src="images/common/user-image-4.jpg" alt="review"></div>
+    <div class="user-image"><img src="{{ asset('images/common/user-image-4.jpg') }}" alt="review"></div>
     <div class="user-content">
     <h5>Oliver Kanjorva</h5>
     <p>Business Man</p>
@@ -647,7 +647,7 @@
     </div>
     <div class="review-footer pair-block">
     <div class="image-icon">
-    <a href="#"><img src="images/icons/google.png" alt="icon"></a>
+    <a href="#"><img src="{{ asset('images/icons/google.png') }}" alt="icon"></a>
     </div>
     <div class="starrating">
     <ul>
@@ -670,9 +670,9 @@
     </div>
     <div class="col-lg-8">
     <div class="review-links mt30">
-    <a href="#" class="wow fadeIn" data-wow-delay=".2s"><img src="images/clients/trustplot.svg" alt="#"> </a>
-    <a href="#" class="wow fadeIn" data-wow-delay=".4s"><img src="images/clients/clutchreview.svg" alt="#"> </a>
-    <a href="#" class="wow fadeIn" data-wow-delay=".6s"><img src="images/clients/appstore.svg" alt="#"> </a>
+    <a href="#" class="wow fadeIn" data-wow-delay=".2s"><img src="{{ asset('images/clients/trustplot.svg') }}" alt="#"> </a>
+    <a href="#" class="wow fadeIn" data-wow-delay=".4s"><img src="{{ asset('images/clients/clutchreview.svg') }}" alt="#"> </a>
+    <a href="#" class="wow fadeIn" data-wow-delay=".6s"><img src="{{ asset('images/clients/appstore.svg') }}" alt="#"> </a>
     </div>
     </div>
     </div>
@@ -680,19 +680,116 @@
     </section>
 
 
+    <section class="contactblock section-space bkbg3 bg--2">
+        <div class="container">
+        <div class="row justify-content-between v-center">
+        <div class="col-lg-5">
+        <div class="contactinfodivv">
+        <div class="con-block-sw-div">
+        <h2 class="mb10">Let's get in touch</h2>
+        <p>We will catch you as early as we receive the message</p>
+        <div class="contactinfodivsw mt30">
+        <div class="contactnumberdiv">
+        <p class="mb5 linktitle">We're Available 24/7. Call Now.</p>
+        <a href="#"><i class="fa-solid fa-tty mr10"></i> 91 123 4567 890</a>
+        <a href="#"><i class="fa-brands fa-whatsapp mr10"></i> 91 123 4567 890</a>
+        </div>
+        <div class="contactnumberdiv mt30">
+        <p class="mb5 linktitle">Send Us an Email:</p>
+        <a href="#"><i class="fa-solid fa-envelope mr10"></i> <span class="__cf_email__" data-cfemail="127a60526b7d6760657770617b66773c717d7f">[email&#160;protected]</span></a>
+        <a href="#"><i class="fa-solid fa-envelope mr10"></i> <span class="__cf_email__" data-cfemail="4f262129200f36203a3d382a2d3c263b2a612c2022">[email&#160;protected]</span></a>
+        </div>
+        <div class="contactnumberdiv mt30">
+        <p class="mb5 linktitle">Chat on Skype:</p>
+        <a href="#"><i class="fa-solid fa-envelope mr10"></i>Blueket:live</a>
+        </div>
+        <div class="social-link-sw mt30">
+        <span class="linktitle">Follow Us</span>
+        <ul class="footer-social-sw mt10 sw-hover-2">
+        <li><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+        <li> <a href="#"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
+        <li><a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
+        <li><a href="#"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a></li>
+        <li> <a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a> </li>
+        </ul>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        <div class="col-lg-7 mmt40 pad-left-70">
+        <div class="contact-form-card-pr contact-block-sw iconin">
+        <h4>Have Question? Write a Message</h4>
+        <div class="form-block blueketform mt40">
+        <form action="#" id="contactform" method="post">
+        <div class="fieldsets row">
+        <div class="col-md-6 form-group floating-label">
+        <div class="formicon"><i class="fa-solid fa-user"></i></div>
+        <input type="text" placeholder=" " required="required" id="name" class="floating-input" name="fullname">
+        <label>Full Name*</label>
+        <div class="error-label"></div>
+        </div>
+        <div class="col-md-6 form-group floating-label">
+        <div class="formicon"><i class="fa-solid fa-phone"></i></div>
+        <input type="tel" placeholder=" " required="required" id="mobile_number" class="floating-input" name="mobile_number">
+        <label>Mobile Number*</label>
+        <div class="error-label"></div>
+        </div>
+        </div>
+        <div class="fieldsets row">
+        <div class="col-md-6 form-group floating-label">
+        <div class="formicon"><i class="fa-solid fa-envelope"></i></div>
+        <input type="email" placeholder=" " required="required" id="email" class="floating-input" name="email">
+        <label>Email Address*</label>
+        <div class="error-label"></div>
+        </div>
+        <div class="col-md-6 form-group floating-label">
+        <div class="formicon"><i class="fa-solid fa-rectangle-list"></i></div>
+        <select required="required" id="interested_in" class="floating-select" name="interested_in">
+        <option value>&nbsp;</option>
+        <option value="Graphic Design">Graphic Design</option>
+        <option value="Web Design">Web Design</option>
+        <option value="App Design">App Design</option>
+        <option value="Other">Other</option>
+        </select>
+        <label>Interested In*</label>
+        <div class="error-label"></div>
+        </div>
+        </div>
+        <div class="fieldsets row">
+        <div class="col-md-12 form-group floating-label">
+        <div class="formicon"><i class="fa-solid fa-message"></i></div>
+        <textarea placeholder=" " required="required" id="description" class="floating-input" name="description"></textarea>
+        <label>Brief about the project*</label>
+        <div class="error-label"></div>
+        </div>
+        </div>
+        <div class="custom-control custom-checkbox customcheck">
+        <input type="checkbox" class="custom-control-input ctminpt" id="agree" name="agree" checked="checked">
+        <label class="custom-control-label ctmlabl" for="agree">By clicking the “Submit” button you agree to our <a href="javascript:void(0)">Terms &amp; Conditions</a>.</label>
+        </div>
+        <div class="fieldsets mt20"> <button type="submit" name="submit" class="porkai-btn"><span>Submit</span> <span class="loader"></span></button> </div>
+        </form>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </section>
+
     <footer class="footer-design-sw pt80 pb30 text-white swdarkfooter">
     <div class="container index-up">
     <div class="row justify-content-between">
     <div class="col-lg-4">
     <div class="footer-brand-info">
     <div class="footer-logo-sw">
-    <a href="#"><img src="images/logo-white.svg" alt="logo" class="light"></a>
-    <a href="#"><img src="images/logo-white.svg" alt="logo" class="dark"></a>
+    <a href="#"><img src="{{ asset('images/technopert-nobg.png') }}" alt="logo" class="light"></a>
+    <a href="#"><img src="{{ asset('images/technopert-nobg.png') }}" alt="logo" class="dark"></a>
     </div>
 
     <div class="ft-address-blocks mt60">
     <div class="subsc-div-sw">
-    <h5>Ready to Move Forward and Get the Latest Insights.</h5>
+    <h5>Subscribe to Our Newsletter and Get the Latest Insights.</h5>
     <div class="TechnoPertsubscriptionbox mt30">
     <form>
     <div class="form-inputs subsform">
@@ -771,12 +868,12 @@
 
     <div class="footerbreak swhr">
     <div class="award-badge-block mt50">
-    <a href="#"><img src="images/icons/award-badge-1.png" alt="icon"></a>
-    <a href="#"><img src="images/icons/award-badge-2.png" alt="icon"></a>
-    <a href="#"><img src="images/icons/award-badge-3.png" alt="icon"></a>
-    <a href="#"><img src="images/icons/award-badge-5.png" alt="icon"></a>
-    <a href="#"><img src="images/icons/award-badge-6.png" alt="icon"></a>
-    <a href="#"><img src="images/icons/award-badge-7.png" alt="icon"></a>
+    <a href="#"><img src="{{ asset('images/icons/award-badge-1.png') }}" alt="icon"></a>
+    <a href="#"><img src="{{ asset('images/icons/award-badge-2.png') }}" alt="icon"></a>
+    <a href="#"><img src="{{ asset('images/icons/award-badge-3.png') }}" alt="icon"></a>
+    <a href="#"><img src="{{ asset('images/icons/award-badge-5.png') }}" alt="icon"></a>
+    <a href="#"><img src="{{ asset('images/icons/award-badge-6.png') }}" alt="icon"></a>
+    <a href="#"><img src="{{ asset('images/icons/award-badge-7.png') }}" alt="icon"></a>
     </div>
     </div>
     <div class="footercreditandrevielinks swhr pt20 mt60">
