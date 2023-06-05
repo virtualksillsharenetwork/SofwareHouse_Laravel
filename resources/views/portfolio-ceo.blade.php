@@ -68,11 +68,11 @@
         arden and make good use of new ideas and information and reliable conscientious in all he takes on.</p>
     <div class="contactinkediv mt40">
     <span class="linktitle">Send Us an Email:</span>
-    <a href="https://separateweb.com/cdn-cgi/l/email-protection#2940474f466950465c5b5e4c4b5a405d4c074a4644"><span class="__cf_email__" data-cfemail="b2dbdcd4ddf2cbddc7c0c5d7d0c1dbc6d79cd1dddf">[email&#160;protected]</span></a>
+    <a href="mailto:abidmaqbool20@gmail.com"><span class="__cf_email__" data-cfemail="b2dbdcd4ddf2cbddc7c0c5d7d0c1dbc6d79cd1dddf">abidmaqbool20@gmail.com</span></a>
     </div>
     <div class="contactinkediv mt30">
     <span class="linktitle">Give Us a Call:</span>
-    <a href="tel:+911234567900">91 123 4567 890</a>
+    <a href="tel:+923121431660">92 312 143 1660</a>
     </div>
     </div>
     </div>
@@ -209,10 +209,9 @@
     <div class="footerlink-sol">
     <div class="linkftsw sw-hover-1">
     <ul class="list-h-styled flnclnk">
-    <li><a href="#">Go to Company Site</a></li>
-    <li><a href="#">About Company</a></li>
+    <li><a href="/">Home</a></li>
+    <li><a href="#">About</a></li>
     <li><a href="#">Company Services</a></li>
-    <li><a href="#">Contact Company</a></li>
     </ul>
     </div>
     </div>

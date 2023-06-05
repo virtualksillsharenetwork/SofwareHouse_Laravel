@@ -1,10 +1,4 @@
 
-<div class="preloader">
-    <div class="preloader_inner">0%</div>
-    <div class="loaderlogo"><img src="images/technopert-nobg.png" alt="logo"></div>
-    </div>
-
-
     <header class="header animation headerbg">
     <div class="container-fluid">
     <div class="wrapper">
@@ -26,19 +20,19 @@
     </div>
     <ul class="menu-section">
 
-
+    <li><a href="/">Home</a></li>
     <li class="menu-item-has-children">
     <a href="#.">Services <i class="fa-solid fa-angle-down"></i></a>
     <div class="menu-subs menu-column-1">
     <ul>
         <li><a href="index.html">All Services</a></li>
         <li><a href="/portfolio-ceo">Marketing Services</a></li>
-        <li><a href="demo-web-design.html">Web Design</a></li>
-        <li><a href="demo-app-development.html">App Development</a></li>
-        <li><a href="demo-business-startup.html">Business & Startup</a></li>
-        <li><a href="demo-graphic-design.html">Graphic Design</a></li>
-        <li><a href="demo-branding-agency.html">Branding Agency</a></li>
-        <li><a href="demo-digital-agency.html">Digital Agency</a></li>
+        <li><a href="/">Web Design</a></li>
+        <li><a href="/">App Development</a></li>
+        <li><a href="/">Business & Startup</a></li>
+        <li><a href="/">Graphic Design</a></li>
+        <li><a href="/">Branding Agency</a></li>
+        <li><a href="/">Digital Agency</a></li>
 
      </ul>
     </div>
@@ -47,12 +41,9 @@
         <a href="#.">Projects <i class="fa-solid fa-angle-down"></i></a>
         <div class="menu-subs menu-column-1">
         <ul>
-            <li><a href="index.html">All Services</a></li>
-            <li><a href="demo-marketing-agency.html">Marketing Services</a></li>
-            <li><a href="demo-web-design.html">Websites & Web Applications</a></li>
-            <li><a href="demo-app-development.html">App Development</a></li>
-            <li><a href="demo-graphic-design.html">Graphic Design</a></li>
-
+            <li><a href="/projects-all">All Projects</a></li>
+            <li><a href="/projects-top">Top Projects</a></li>
+            <li><a href="/projects-products">Our Products</a></li>
          </ul>
         </div>
         </li>
@@ -60,24 +51,14 @@
     <a href="#.">Portfolio <i class="fa-solid fa-angle-down"></i></a>
     <div class="menu-subs menu-column-1">
     <ul>
-    <li><a href="/portfolio-ceo">CEO Portfolio</a></li>
-    <li><a href="demo-freelancer.html">Team Porfolio</a></li>
+    <li><a href="/portfolio-ceo">CEO </a></li>
+    <li><a href="/portfolio-team">Team </a></li>
     </ul>
     </div>
     </li>
-    <li class="menu-item-has-children">
-    <a href="#.">Blogs <i class="fa-solid fa-angle-down"></i></a>
-    <div class="menu-subs menu-column-1">
-    <ul>
-    <li><a href="blogs.html">Blog Page 1</a></li>
-    <li><a href="blogs-2.html">Blog Page 2</a></li>
-    <li><a href="blogs-details.html">Blog Details</a></li>
-    </ul>
-    </div>
-    </li>
-    <li><a href="about-1.html">Career</a></li>
-    <li><a href="about-1.html">About Us</a></li>
-    <li><a href="about-1.html">Contact Us</a></li>
+    <li><a href="/">Career</a></li>
+    <li><a href="/about-us">About Us</a></li>
+    <li><a href="/contact-us">Contact Us</a></li>
     <li class="darkmodeswitch">
     <div class="switch-wrapper d-none"> <label class="switch" for="blueket"> <input type="checkbox" id="blueket" /> <span class="slider round"></span> </label> </div>
     </li>

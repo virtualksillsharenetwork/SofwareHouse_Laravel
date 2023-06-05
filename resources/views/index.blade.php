@@ -16,6 +16,12 @@
 @endpush
 @section('content')
 
+<div class="preloader">
+<div class="preloader_inner">0%</div>
+<div class="loaderlogo"><img src="images/technopert-nobg.png" alt="logo"></div>
+</div>
+
+
     <section class="demo-7-hero text-white">
     <div class="herodiv">
     <video autoplay muted loop id="myVideo" poster="images/object/worlds.jpg">
