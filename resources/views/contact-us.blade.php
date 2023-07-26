@@ -38,7 +38,7 @@
     </div>
     <div class="contactnumberdiv mt30">
     <p class="mb5 linktitle">Send Us an Email:</p>
-    <a href="mailto:abidmaqbool@technopert.com"><i class="fa-solid fa-envelope mr10"></i> <span class="__cf_email__" data-cfemail="d3babdb5bc93aabca6a1a4b6b1a0baa7b6fdb0bcbe">abidmaqbool@technopert.com</span></a>
+    <a href="mailto:abid@technopert.com"><i class="fa-solid fa-envelope mr10"></i> <span class="__cf_email__" data-cfemail="d3babdb5bc93aabca6a1a4b6b1a0baa7b6fdb0bcbe">abid@technopert.com</span></a>
     <a href="mailto:abidmaqbool20@gmail.com"><i class="fa-solid fa-envelope mr10"></i> <span class="__cf_email__" data-cfemail="1d756f5d6472686f6a787f6e746978337e7270">abidmaqbool20@gmail.com</span></a>
     </div>
     <div class="social-link-sw mt30">
@@ -86,14 +86,14 @@
     <div class="contactinkediv contactblk shadow mt20">
     <span class="scriptheading mb5"><i class="fa-solid fa-envelope mr10"></i> Send Us an Email:</span>
     <p class="f15 mb10">Our support team will get back to in 24-h during standard business hours.</p>
-    <a href="https://separateweb.com/cdn-cgi/l/email-protection#670e090108271e081215100205140e13024904080a" class="d-block"><span class="__cf_email__" data-cfemail="50393e363f10293f2522273532233924357e333f3d">[email&#160;protected]</span></a>
-    <a href="https://separateweb.com/cdn-cgi/l/email-protection#573e393138172e382225203235243e23327934383a" class="d-block"><span class="__cf_email__" data-cfemail="95fde7d5ecfae0e7e2f0f7e6fce1f0bbf6faf8">[email&#160;protected]</span></a>
+    <a href="mailto:abid@technopert.com"><span class="__cf_email__" data-cfemail="ec85828a83ac9583999e9b898e9f859889c28f8381">abid@technopert.com</span></a>
+    <a href="mailto:abidmaqbool20@gmail.com"><span class="__cf_email__" data-cfemail="ec85828a83ac9583999e9b898e9f859889c28f8381">abidmaqbool20@gmail.com</span></a>
     </div>
     <div class="contactinkediv contactblk shadow mt20">
     <span class="scriptheading mb5"><i class="fa-solid fa-tty mr10"></i> Phone/Whatsapp:</span>
     <p class="f15 mb10">Assistance Hours: Mon – Sat, 10 am to 7 pm</p>
-    <a href="tel:+911234567900" class="d-block">91 123 4567 890</a>
-    <a href="tel:+911234567900" class="d-block">91 123 4560 890</a>
+    <a href="tel:+923006916670"><i class="fa-solid fa-tty mr10"></i> 92 300 691 6670</a>
+    <a href="tel:+923069513612"><i class="fa-brands fa-whatsapp mr10"></i> 92 306 951 3612</a>
     </div>
     <div class="contactinkediv contactblk shadow mt20">
     <span class="scriptheading mb5"><i class="fa-brands fa-skype mr10"></i> Chat on Skype</span>

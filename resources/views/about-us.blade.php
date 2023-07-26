@@ -78,14 +78,14 @@
     <div class="row mt20">
     <div class="col-xl-6 col-lg-12 col-md-12 mt20">
     <ul class="bulletpoints">
-    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-    <li>Nullam posuere tortor ut risus posuere varius.</li>
+    <li>Mobile Application Developers (React Native, JAVA)</li>
+    <li>Desktop Software Developer (Winform, C#, Node.js, Electron.js)</li>
     </ul>
     </div>
     <div class="col-xl-6 col-lg-12 col-md-12 mt20">
     <ul class="bulletpoints">
-    <li>Ut eu lectus non massa rhoncus elementum.</li>
-    <li>Nunc scelerisque urna nec quam efficitur semper.</li>
+    <li>Web Application (Laravel, Node.js).</li>
+    <li>Web Design(Core, React, VUE.js)</li>
     </ul>
     </div>
     </div>

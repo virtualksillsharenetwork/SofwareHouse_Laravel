@@ -7,7 +7,7 @@
 @endpush
 @section('content')
 
-
+ 
 <div class="offcanvas offcanvas-end sidebar-offcanvas" tabindex="-1" id="offcanvasRight">
     <div class="offcanvas-header">
     <div class="sidebarlogooff">

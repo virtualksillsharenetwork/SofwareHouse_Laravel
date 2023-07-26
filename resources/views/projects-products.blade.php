@@ -6,7 +6,7 @@
 
 @endpush
 @section('content')
-
+ 
 <section class="breadcrum-area big-breadcrum-area bg-efffect-2">
     <div class="container index-up">
     <div class="row justify-content-center text-center">

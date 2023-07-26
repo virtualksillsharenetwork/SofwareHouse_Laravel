@@ -15,7 +15,7 @@
         </style>
 @endpush
 @section('content')
-
+ 
 <section class="demo-8-hero">
     <div class="container">
     <div class="row justify-content-between">
@@ -42,7 +42,7 @@
 
         Orchestrating seamless operations, a visionary leader who optimizes processes, empowers teams, and drives success.
         Guiding innovation and growth, a visionary trailblazer leading TechnoPert to new heights with strategic acumen and unwavering passion.</p>
-    <a href="#" class="sw-btn sw-blue-btn mt60 wow fadeInUp" data-wow-delay=".8s">Discuss Your Project</a>
+    <a href="tel:+923006916670" class="sw-btn sw-blue-btn mt60 wow fadeInUp" data-wow-delay=".8s">Discuss Your Project</a>
     </div>
     <div class="porttraiimg">
     <div class="portrait-img"><img src="images/team/mabidm-nobg.png" alt="img" style="top: 0 !important;margin-top:250px !important;"></div>
@@ -110,11 +110,11 @@
     <h2 class="mb20 wow fadeIn" data-wow-delay=".4s">My Work Experience</h2>
     <p class="wow fadeIn" data-wow-delay=".6s">Expertise helps Blueket tackle the world's most difficult challenges. Blueket provides digital products for worldwide brands on the web, mobile, and linked platforms. Expertise helps Blueket tackle the world's most difficult challenges.</p>
     <div class="item-pair mt40 wow fadeIn" data-wow-delay="1s">
-    <a href="contact-1.html" class="sw-btn sw-blue-btn">Get Started</a>
-    <div class="videobutton">
+    <a href="tel:+923069513612" class="sw-btn sw-blue-btn">Get Started</a>
+    {{--<div class="videobutton">
     <a class="video-play" href="https://www.youtube.com/watch?v=Aty3TV4Yn4I"><span class="button-play"></span></a>
     <span>Watch Video</span>
-    </div>
+    </div>-- --}}
     </div>
     </div>
     </div>

@@ -17,5 +17,8 @@ Route::get('/', function () {
     return view('index');
 });
 Route::get('/{view}', function ($view) {
+   // echo $view ;
+   // die();
     return view($view);
+
 });

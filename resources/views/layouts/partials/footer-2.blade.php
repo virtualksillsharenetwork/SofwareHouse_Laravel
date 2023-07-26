@@ -11,11 +11,12 @@
 
     <div class="contactinkediv mt50">
     <span class="linktitle">Send Us an Email:</span>
+    <a href="mailto:abid@technopert.com"><span class="__cf_email__" data-cfemail="ec85828a83ac9583999e9b898e9f859889c28f8381">abid@technopert.com</span></a>
     <a href="mailto:abidmaqbool20@gmail.com"><span class="__cf_email__" data-cfemail="ec85828a83ac9583999e9b898e9f859889c28f8381">abidmaqbool20@gmail.com</span></a>
     </div>
     <div class="contactinkediv mt30">
     <span class="linktitle">Give Us a Call:</span>
-    <a href="tel:+911234567900">91 123 4567 890</a>
+    <a href="tel:+923006916670">92 300 691 6670</a>
     </div>
 
 
@@ -36,41 +37,40 @@
     <div class="row mt40 sw-hover-1">
     <div class="col-lg-4 col-md-6 col-6 mt30">
     <div class="footer-links">
-    <h5 class="linktitle">Company Links</h5>
-    <ul class="mt20">
-    <li><a href="#">About Us</a></li>
-    <li><a href="#">Contact Us</a></li>
-    <li><a href="#">Careers</a></li>
-    <li><a href="#">Our Team</a></li>
-    <li><a href="#">Media Coverage</a></li>
-    <li><a href="#">Referral Program</a></li>
-    </ul>
+        <h5 class="linktitle">Company Links</h5>
+        <ul class="mt20">
+        <li><a href="/about-us">About Us</a></li>
+        <li><a href="/contact-us">Contact Us</a></li>
+        <li><a href="/">Careers</a></li>
+        <li><a href="/portfolio-team">Our Team</a></li>
+        <li><a href="/portfolio-ceo">Team Lead</a></li>
+        </ul>
     </div>
     </div>
     <div class="col-lg-4 col-md-6 col-6 mt30">
     <div class="footer-links">
-    <h5 class="linktitle">Technologies</h5>
-    <ul class="mt20">
-    <li><a href="#">React JS</a></li>
-    <li><a href="#">Laravel</a></li>
-    <li><a href="#">CodeIgniter</a></li>
-    <li><a href="#">Node JS</a></li>
-    <li><a href="#">WordPress</a></li>
-    <li><a href="#">Magento</a></li>
-    </ul>
+        <h5 class="linktitle">Technologies</h5>
+        <ul class="mt20">
+        <li><a href="">React JS</a></li>
+        <li><a href="">Laravel</a></li>
+        <li><a href="">CodeIgniter</a></li>
+        <li><a href="">Node JS</a></li>
+        <li><a href="">WordPress</a></li>
+        <li><a href="">React Native</a></li>
+        <li><a href="">Window form</a></li>
+        <li><a href="">ElectronJs</a></li>
+        </ul>
     </div>
     </div>
     <div class="col-lg-4 col-md-6 col-6 mt30">
     <div class="footer-links">
-    <h5 class="linktitle">Our Services</h5>
-    <ul class="mt20">
-    <li><a href="#">Web Application</a></li>
-    <li><a href="#">Mobile App Development</a></li>
-    <li><a href="#">Microsoft Development</a></li>
-    <li><a href="#">Front End Development</a></li>
-    <li><a href="#">eCommerce Development</a></li>
-    <li><a href="#">Cross-platform App</a></li>
-    </ul>
+        <h5 class="linktitle">Our Services</h5>
+        <ul class="mt20">
+        <li><a href="/services-web">Web Application</a></li>
+        <li><a href="/services-app">Mobile App Development</a></li>
+        <li><a href="/services-web">eCommerce Development</a></li>
+        <li><a href="/services-desktop">Cross-platform Desktop App</a></li>
+        </ul>
     </div>
     </div>
     </div>
@@ -86,9 +86,9 @@
     </div>
     <div class="linkftsw">
     <ul class="list-h-styled">
-    <li><a href="#">Sitemap</a></li>
-    <li><a href="#">Terms of Use</a></li>
-    <li><a href="#">Privacy Policy</a></li>
+    <li><a href="">Sitemap</a></li>
+    <li><a href="">Terms of Use</a></li>
+    <li><a href="">Privacy Policy</a></li>
     </ul>
     </div>
     </div>

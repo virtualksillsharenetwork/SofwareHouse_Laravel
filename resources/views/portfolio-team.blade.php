@@ -16,7 +16,7 @@
 @endpush
 @section('content')
 
-
+ 
 <div class="offcanvas offcanvas-end sidebar-offcanvas" tabindex="-1" id="offcanvasRight">
     <div class="offcanvas-header">
     <div class="sidebarlogooff">
@@ -65,9 +65,9 @@
     <div class="breadcrum-area-content">
     <ul class="list-h-styled mb30">
     <li><a href="index.html">Home</a></li>
-    <li class="active">Contact</li>
+    <li class="active">Porfolio Team</li>
     </ul>
-    <h2 class="mb15">About Us</h2>
+    <h2 class="mb15">Our Team</h2>
     <p>As a highly acclaimed digital consulting and engineering firm, we specialize in delivering comprehensive software solutions to a diverse range of clients. From enterprises and independent software vendors to digital agencies and startups, our expertise spans across industries.</p>
     <p>
 
@@ -277,7 +277,7 @@
     <div class="img-ovrflo-sw">
     <div class="ioswmg animation roundimg"> <img src="images/team/team-10.jpg" alt="professional"></div>
     <div class="user-info-div-sw">
-    <h4>Mohit Gavasker</h4>
+    <h4>Sheraz Maqsood</h4>
     <p>Web Developer</p>
     </div>
     </div>
@@ -335,7 +335,7 @@
     <div class="cta-info-div-bkt">
     <h3 class="mb15">Want to Hire Resources to Work With You?</h3>
     <p>Designers and Developers for Android, iOS, Web, Windows & MAC. We have over 5 years of experience in helping companies.</p>
-    <a href="#" class="sw-btn sw-white-btn mt30">Get Started <i class="fa-solid fa-arrow-trend-up"></i></a>
+    <a href="/contact-us" class="sw-btn sw-white-btn mt30">Get Started <i class="fa-solid fa-arrow-trend-up"></i></a>
     </div>
     <div class="cta-img-div-bkt"><img src="images/common/app-mockup-2.svg" alt="img"></div>
     </div>

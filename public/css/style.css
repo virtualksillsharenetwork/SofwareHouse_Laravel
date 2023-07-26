@@ -1104,7 +1104,11 @@ img {
 }
 
 .brandlogo img {
-    max-height: 35px
+    margin-top:-100px;
+    margin-left:-100px;
+    position:absolute;
+    max-height: 200px;
+    max-width:200px;
 }
 
 .brandlogo .light {
@@ -2674,7 +2678,7 @@ footer {
 }
 
 .footer-logo-sw a img {
-    max-width: 200px
+    max-width: 280px
 }
 
 .career-link-btn-sw span {
@@ -5619,7 +5623,7 @@ a.btgs {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    background: var(--bg-b4);
+    background: var(--black-color-1);
     padding: 30px;
     max-width: 320px;
     border-radius: 14px
