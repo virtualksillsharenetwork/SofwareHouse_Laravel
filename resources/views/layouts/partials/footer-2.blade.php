@@ -43,7 +43,7 @@
         <li><a href="/contact-us">Contact Us</a></li>
         <li><a href="/">Careers</a></li>
         <li><a href="/portfolio-team">Our Team</a></li>
-        <li><a href="/portfolio-ceo">Team Lead</a></li>
+        <li><a href="/portfolio-ceo">CEO</a></li>
         </ul>
     </div>
     </div>

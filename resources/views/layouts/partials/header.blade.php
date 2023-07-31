@@ -49,7 +49,7 @@
             <a href="#.">Portfolio <i class="fa-solid fa-angle-down"></i></a>
             <div class="menu-subs menu-column-1">
             <ul>
-            <li><a href="/portfolio-ceo">Team Lead </a></li>
+            <li><a href="/portfolio-ceo">CEO </a></li>
             <li><a href="/portfolio-team"> Team </a></li>
             </ul>
             </div>

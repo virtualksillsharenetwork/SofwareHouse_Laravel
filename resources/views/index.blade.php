@@ -467,7 +467,7 @@
     <div class="user-image wh"><img src="{{ asset('images/team/mabidm.jpg') }}" alt="review"></div>
     <div class="user-content">
     <h5>Muhammad Abid Maqbool</h5>
-    <p>TechnoPert Team Lead</p>
+    <p>TechnoPert CEO</p>
     </div>
     </div>
     </div>
@@ -846,7 +846,7 @@
     <li><a href="/contact-us">Contact Us</a></li>
     <li><a href="/">Careers</a></li>
     <li><a href="/portfolio-team">Our Team</a></li>
-    <li><a href="/portfolio-ceo">Team Lead</a></li>
+    <li><a href="/portfolio-ceo">CEO</a></li>
     </ul>
     </div>
     </div>
@@ -882,6 +882,9 @@
 
     <div class="footerbreak swhr">
     <div class="award-badge-block mt50">
+    <a href="#"><img src="{{ asset('images/icons/CMHLMC.png') }}" alt="icon"></a>
+    <a href="#"><img src="{{ asset('images/icons/CMHIOD.png') }}" alt="icon"></a>
+    <a href="#"><img src="{{ asset('images/icons/CMHSAHS.png') }}" alt="icon"></a>
     <a href="#"><img src="{{ asset('images/icons/award-badge-1.png') }}" alt="icon"></a>
     <a href="#"><img src="{{ asset('images/icons/award-badge-2.png') }}" alt="icon"></a>
     <a href="#"><img src="{{ asset('images/icons/award-badge-3.png') }}" alt="icon"></a>
