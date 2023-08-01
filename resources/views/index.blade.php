@@ -34,7 +34,7 @@
     <div class="hero-content">
     <h1 class="mb20 wow fadeInUp" data-wow-delay=".8s"> Design Products<br> Deliver Experience </h1>
     <p class="wow fadeInUp" data-wow-delay="1.2s">A full-service digital marketing firm that specialises in human-centered experiences.</p>
-    <a href="contact-1.html" class="sw-btn sw-blue-btn wow fadeInUp mt40" data-wow-delay="1.4s">Hire a Developer </a>
+    <a href="/contact-us" class="sw-btn sw-blue-btn wow fadeInUp mt40" data-wow-delay="1.4s">Hire a Developer </a>
     <div class="hero-iconsets wow fadeInUp" data-wow-delay="1.6s">
     <a href="#"><img src="{{ asset('images/icons/goodfirm-1.svg') }}" alt="img"></a>
     <a href="#"><img src="{{ asset('images/icons/clutch-1.svg') }}" alt="img"></a>
@@ -188,7 +188,7 @@
     <div class="sw-card white-bg shadow">
     <img src="{{ asset('images/icons/online-shop.png') }}" alt="icon" class="innercardiocn">
     <h3 class="swbttitlex">eCommerce<br> Development</h3>
-    <p>Elevate your online business with our exceptional e-commerce development solutions.</p>
+    <p>Elevate your online business with our e-commerce development solutions.</p>
     </div>
     </div>
     </div>
@@ -460,14 +460,14 @@
     <div class="col-lg-4 position-relative mmt40">
     <div class="roundimg wow fadeIn" data-wow-delay="1.2s"><img src="{{ asset('images/common/company.jpg') }}" alt="img" class="w-100"></div>
     <div class="img-overthe-card wow fadeIn" data-wow-delay="1.6s">
-    <h4>Excellent Executive</h4>
-    <p>TechnoPert</p>
+    <h4 style="color:white;">Excellent Executive</h4>
+    <p style="color:white;">TechnoPert</p>
     <div class="card-v-light"></div>
     <div class="mediablock mt30">
     <div class="user-image wh"><img src="{{ asset('images/team/mabidm.jpg') }}" alt="review"></div>
     <div class="user-content">
-    <h5>Muhammad Abid Maqbool</h5>
-    <p>TechnoPert CEO</p>
+    <h5 style="color:white;">Muhammad Abid Maqbool</h5>
+    <p style="color:white;">TechnoPert CEO</p>
     </div>
     </div>
     </div>
@@ -590,7 +590,7 @@
     </div>
     <div class="review-footer pair-block">
     <div class="image-icon">
-    <a href="#"><img src="{{ asset('images/icons/google.png') }}" alt="icon"></a>
+    <!-- <a href="#"><img src="{{ asset('images/icons/google.png') }}" alt="icon"></a> -->
     </div>
     <div class="starrating">
     <ul>
@@ -616,7 +616,7 @@
     </div>
     <div class="review-footer pair-block">
     <div class="image-icon">
-    <a href="#"><img src="{{ asset('images/icons/google.png') }}" alt="icon"></a>
+    <!-- <a href="#"><img src="{{ asset('images/icons/google.png') }}" alt="icon"></a> -->
     </div>
     <div class="starrating">
     <ul>
@@ -642,7 +642,7 @@
     </div>
     <div class="review-footer pair-block">
     <div class="image-icon">
-    <a href="#"><img src="{{ asset('images/icons/google.png') }}" alt="icon"></a>
+    <!-- <a href="#"><img src="{{ asset('images/icons/google.png') }}" alt="icon"></a> -->
     </div>
     <div class="starrating">
     <ul>
@@ -664,11 +664,11 @@
     </div>
     </div>
     <div class="review-content mt30 mb30">
-    <p>I'm highly satisfied with TechnoPert's desktop and mobile app development services. Their expertise in creating applications for multiple platforms was outstanding. They delivered high-quality solutions tailored to my requirements, ensuring seamless functionality. Their commitment to customer satisfaction is commendable. I highly recommend TechnoPert for efficient and reliable app development.</p>
+    <p>I'm highly satisfied with TechnoPert's desktop and mobile app development services. Their expertise in creating applications for multi-platforms was outstanding. They delivered high-quality solutions tailored to my requirements, ensuring seamless functionality. Their commitment to customer satisfaction is great. I highly recommend TechnoPert for efficient & reliable development.</p>
     </div>
     <div class="review-footer pair-block">
     <div class="image-icon">
-    <a href="#"><img src="{{ asset('images/icons/google.png') }}" alt="icon"></a>
+    <!-- <a href="#"><img src="{{ asset('images/icons/google.png') }}" alt="icon"></a> -->
     </div>
     <div class="starrating">
     <ul>
@@ -869,10 +869,21 @@
     <div class="footer-links">
     <h5 class="linktitle">Our Services</h5>
     <ul class="mt20">
-    <li><a href="/services-web">Web Application</a></li>
+    <li><a href="/services-web">Web Application Development Services</a></li>
     <li><a href="/services-app">Mobile App Development</a></li>
     <li><a href="/services-web">eCommerce Development</a></li>
-    <li><a href="/services-desktop">Cross-platform Desktop App</a></li>
+    <li><a href="#">AI Development Service</a></li>
+    <li><a href="#">Enterprise App Development</a></li>
+    <li><a href="#">Software Quality Assurance</a></li>
+    <li><a href="#">IoT Development</a></li>
+    <li><a href="#">Data Scraping</a></li>
+    <li><a href="#">Blockchain Development</a></li>
+    <li><a href="#">Custom Software Development</a></li>
+    <li><a href="#">Technical Support Services</a></li>
+    <li><a href="#">Cyber Security Services</a></li>
+    <li><a href="#">Software Project Management</a></li>
+    <li><a href="#">UI/UX Design</a></li>
+    <li><a href="#">Custom Software Development</a></li>
     </ul>
     </div>
     </div>
@@ -882,15 +893,15 @@
 
     <div class="footerbreak swhr">
     <div class="award-badge-block mt50">
-    <a href="#"><img src="{{ asset('images/icons/CMHLMC.png') }}" alt="icon"></a>
-    <a href="#"><img src="{{ asset('images/icons/CMHIOD.png') }}" alt="icon"></a>
-    <a href="#"><img src="{{ asset('images/icons/CMHSAHS.png') }}" alt="icon"></a>
+    <a href="https://www.cmhlahore.edu.pk/"><img src="{{ asset('images/icons/CMHLMC.png') }}" alt="icon"></a>
+    <a href="https://www.cmhlahore.edu.pk/"><img src="{{ asset('images/icons/CMHIOD.png') }}" alt="icon"></a>
+    <a href="https://www.cmhlahore.edu.pk/"><img src="{{ asset('images/icons/CMHSAHS.png') }}" alt="icon"></a>
     <a href="#"><img src="{{ asset('images/icons/award-badge-1.png') }}" alt="icon"></a>
     <a href="#"><img src="{{ asset('images/icons/award-badge-2.png') }}" alt="icon"></a>
     <a href="#"><img src="{{ asset('images/icons/award-badge-3.png') }}" alt="icon"></a>
-    <a href="#"><img src="{{ asset('images/icons/award-badge-5.png') }}" alt="icon"></a>
+    <!-- <a href="#"><img src="{{ asset('images/icons/award-badge-5.png') }}" alt="icon"></a>
     <a href="#"><img src="{{ asset('images/icons/award-badge-6.png') }}" alt="icon"></a>
-    <a href="#"><img src="{{ asset('images/icons/award-badge-7.png') }}" alt="icon"></a>
+    <a href="#"><img src="{{ asset('images/icons/award-badge-7.png') }}" alt="icon"></a> -->
     </div>
     </div>
     <div class="footercreditandrevielinks swhr pt20 mt60">

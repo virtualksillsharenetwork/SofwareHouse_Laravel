@@ -27,10 +27,20 @@
                 <li><a href="/services-app">App Design & Development</a></li>
                 <li><a href="/services-web">Website and Web App</a></li>
                 <li><a href="/services-desktop">Desktop App Development</a></li>
-                {{--<li><a href="/">Business & Startup</a></li>-- --}}
-               {{-- <li><a href="/">Graphic Design</a></li>-- --}}
-               {{-- <li><a href="/">Branding Agency</a></li>-- --}}
-               {{-- <li><a href="/">Digital Agency</a></li>-- --}}
+                <li><a href="#">AI Development Service</a></li>
+                <li><a href="#">Enterprise App Development</a></li>
+                <li><a href="#">Software Quality Assurance</a></li>
+                <li><a href="#">IoT Development</a></li>
+                <li><a href="#">Data Scraping</a></li>
+                <li><a href="#">Graphic Design</a></li>
+                <li><a href="#">Blockchain Development</a></li>
+                <li><a href="#">Custom Software Development</a></li>
+                <li><a href="#">Technical Support Services</a></li>
+                <li><a href="#">Cyber Security Services</a></li>
+                <li><a href="#">Software Project Management</a></li>
+                <li><a href="#">UI/UX Design</a></li>
+                <li><a href="#">Custom Software Development</a></li>
+               
 
              </ul>
             </div>

@@ -111,7 +111,7 @@
     <div class="container-fluid">
     <div class="row">
     <div class="col-lg-12">
-    <div class="paralleximg roundimg"><img src="images/common/team-all.jpg" alt="team view"></div>
+    <div class="paralleximg roundimg"><img src="images/common/all-team.jpg" alt="team view"></div>
     </div>
     </div>
     </div>
@@ -266,7 +266,7 @@
     </div>
     <div class="review-footer pair-block">
     <div class="image-icon">
-    <a href="#"><img src="images/icons/google.png" alt="icon"></a>
+    <!-- <a href="#"><img src="images/icons/google.png" alt="icon"></a> -->
     </div>
     <div class="starrating">
     <ul>
@@ -292,7 +292,7 @@
     </div>
     <div class="review-footer pair-block">
     <div class="image-icon">
-    <a href="#"><img src="images/icons/google.png" alt="icon"></a>
+    <!-- <a href="#"><img src="images/icons/google.png" alt="icon"></a> -->
     </div>
     <div class="starrating">
     <ul>
@@ -318,7 +318,7 @@
     </div>
     <div class="review-footer pair-block">
     <div class="image-icon">
-    <a href="#"><img src="images/icons/google.png" alt="icon"></a>
+    <!-- <a href="#"><img src="images/icons/google.png" alt="icon"></a> -->
     </div>
     <div class="starrating">
     <ul>
@@ -344,7 +344,7 @@
     </div>
     <div class="review-footer pair-block">
     <div class="image-icon">
-    <a href="#"><img src="images/icons/google.png" alt="icon"></a>
+    <!-- <a href="#"><img src="images/icons/google.png" alt="icon"></a> -->
     </div>
     <div class="starrating">
     <ul>
