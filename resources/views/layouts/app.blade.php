@@ -7,8 +7,12 @@
 
 </head>
 <body>
-
-@include('layouts.partials.header')
+@if(request()->is('link-not-found') || request()->is('comming-soon'))
+       
+        @include('layouts.partials.header-2')
+@else 
+    @include('layouts.partials.header')
+@endif
 {{-- <!-- @include('layouts.partials.sidebar') -->--}}
 @yield('content')
 

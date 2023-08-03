@@ -112,7 +112,7 @@
     </div>
     <div class="row immt100">
     <div class="col-lg-12">
-    <div class="paralleximg roundimg"><img src="images/common/office-view.jpg" alt="office view"></div>
+    <div class="paralleximg roundimg"><img src="images/common/all-team.jpg" alt="all team"></div>
     </div>
     </div>
     <div class="row">
@@ -197,7 +197,7 @@
     <div class="ioswmg animation roundimg"> <img src="images/team/mejazh.jpg" alt="professional"></div>
     <div class="user-info-div-sw">
     <h4>M. Ejaz Hanif</h4>
-    <p>Executive Chairman</p>
+    <p>Project Manager</p>
     </div>
     </div>
     </div>
@@ -206,7 +206,7 @@
     <div class="ioswmg animation roundimg"> <img src="images/team/mkhalid.jpg" alt="professional"></div>
     <div class="user-info-div-sw">
     <h4>M. Khalid</h4>
-    <p>Project Manager</p>
+    <p>Laravel & Node.js Developer</p>
     </div>
     </div>
     </div>
@@ -214,7 +214,7 @@
     <div class="img-ovrflo-sw">
     <div class="ioswmg animation roundimg"> <img src="images/team/team-2.jpg" alt="professional"></div>
     <div class="user-info-div-sw">
-    <h4>Anil Kumar</h4>
+    <h4>Ayesha Ali</h4>
     <p>Digital Marketing</p>
     </div>
     </div>
@@ -223,17 +223,17 @@
     <div class="img-ovrflo-sw">
     <div class="ioswmg animation roundimg"> <img src="images/team/team-4.jpg" alt="professional"></div>
     <div class="user-info-div-sw">
-    <h4>Sanya Doutol</h4>
-    <p>Customer Relationship</p>
+    <h4>Zahra Mukhtar</h4>
+    <p>Android Development</p>
     </div>
     </div>
     </div>
     <div class="card-user-photo-sw">
     <div class="img-ovrflo-sw">
-    <div class="ioswmg animation roundimg"> <img src="images/team/team-5.jpg" alt="professional"></div>
+    <div class="ioswmg animation roundimg"> <img src="images/team/imrann.jpeg" alt="professional"></div>
     <div class="user-info-div-sw">
-    <h4>Mike Jonkoyk</h4>
-    <p>React Developer</p>
+    <h4>Imran Naseer</h4>
+    <p>Quality Assurance Expert</p>
     </div>
     </div>
     </div>
@@ -257,10 +257,10 @@
     </div>
     <div class="card-user-photo-sw">
     <div class="img-ovrflo-sw">
-    <div class="ioswmg animation roundimg"> <img src="images/team/team-8.jpg" alt="professional"></div>
+    <div class="ioswmg animation roundimg"> <img src="images/team/asifm.jpg" alt="professional"></div>
     <div class="user-info-div-sw">
-    <h4>Tom Happy</h4>
-    <p>Android Development</p>
+    <h4>Asif Maqsood</h4>
+    <p>DevOpps Engineer</p>
     </div>
     </div>
     </div>
@@ -275,10 +275,10 @@
     </div>
     <div class="card-user-photo-sw">
     <div class="img-ovrflo-sw">
-    <div class="ioswmg animation roundimg"> <img src="images/team/team-10.jpg" alt="professional"></div>
+    <div class="ioswmg animation roundimg"> <img src="images/team/msheraz.jpg" alt="professional"></div>
     <div class="user-info-div-sw">
     <h4>Sheraz Maqsood</h4>
-    <p>Web Developer</p>
+    <p>Desktop Developer</p>
     </div>
     </div>
     </div>

@@ -60,7 +60,7 @@
     <li class="active">Portfolio</li>
     </ul>
     <h2 class="mb15">Some of Our Best Work That We Are Proud of</h2>
-    <p>Expertise helps Blueket tackle the world's most difficult challenges. Blueket provides digital products for worldwide brands on the web.</p>
+    <p>Expertise helps Technopert tackle the world's most difficult challenges. Technopert provides digital products for worldwide brands on the web.</p>
     </div>
     </div>
     <div class="col-lg-5 flex-end mmt30 text-white">
@@ -84,6 +84,162 @@
     </div>
     </section>
 
+    
+    <section class="section-space bg--2">
+    <div class="container">
+
+    <div class="row isotope-items-wrap">
+  
+    <div class="col-lg-4 mt30 isotope-item">
+    <div class="our-works">
+    <div class="work-imags"><a href="https://www.weddme.pk/0"><img src="{{ asset('images/portfolio/weddme.png') }}" alt="work" class="card-img-round"></a></div>
+    <div class="infoblocis">
+    <div class="nameofitem">
+    <h3>WeddMe PK: Spouse Finding Site</h3>
+    <p class="mt5">Web Application</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="col-lg-4 mt30 isotope-item">
+    <div class="our-works">
+    <div class="work-imags"><a href="https://multibranchimsv2.pears.info/"><img src="{{ asset('images/portfolio/multibranchimsv2.pears.info.png') }}" alt="work" class="card-img-round"></a></div>
+    <div class="infoblocis">
+    <div class="nameofitem">
+    <h3>Multibranch School Management App</h3>
+    <p class="mt5">Web Application</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="col-lg-4 mt30 isotope-item">
+    <div class="our-works">
+    <div class="work-imags"><a href="https://ecommerce-store-cms.pears.info/admin"><img src="{{ asset('images/portfolio/ecommerce-store-cms.pears.info.png') }}" alt="work" class="card-img-round"></a></div>
+    <div class="infoblocis">
+    <div class="nameofitem">
+    <h3>E-Commerece Site with CMS Admin Panal</h3>
+    <p class="mt5">Web Development</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="col-lg-4 mt30 isotope-item">
+    <div class="our-works">
+    <div class="work-imags"><a href="https://easyprocure.pears.info/"><img src="{{ asset('images/portfolio/easyprocure.pears.info.png') }}" alt="work" class="card-img-round"></a></div>
+    <div class="infoblocis">
+    <div class="nameofitem">
+    <h3>Easyprocure: C2C E-comm</h3>
+    <p class="mt5">Web Application</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="col-lg-4 mt30 isotope-item">
+    <div class="our-works">
+    <div class="work-imags"><a href="https://office.rsfsoft.com/"><img src="{{ asset('images/portfolio/office.rsfsoft.com.png') }}" alt="work" class="card-img-round"></a></div>
+    <div class="infoblocis">
+    <div class="nameofitem">
+    <h3>Office Management System</h3>
+    <p class="mt5">Web Development</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="col-lg-4 mt30 isotope-item">
+    <div class="our-works">
+    <div class="work-imags"><a href="https://movers.runbusinesssmartly.com/"><img src="{{ asset('images/portfolio/movers.runbusinesssmartly.com.png') }}" alt="work" class="card-img-round"></a></div>
+    <div class="infoblocis">
+    <div class="nameofitem">
+    <h3>Transport Management System</h3>
+    <p class="mt5">Web Development</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="col-lg-4 mt30 isotope-item">
+    <div class="our-works">
+    <div class="work-imags"><a href="#"><img src="{{ asset('images/portfolio/small-store-ecom.png') }}" alt="work" class="card-img-round"></a></div>
+    <div class="infoblocis">
+    <div class="nameofitem">
+    <h3>Single Vendor E-commerece Store</h3>
+    <p class="mt5">Web Development</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="col-lg-4 mt30 isotope-item">
+    <div class="our-works">
+    <div class="work-imags"><a href="#"><img src="images/portfolio/work-1.jpg" alt="work" class="card-img-round"></a></div>
+    <div class="infoblocis">
+    <div class="nameofitem">
+    <h3>Online Shopping Store</h3>
+    <p class="mt5">Web Design</p>
+    </div>
+    </div>
+    </div>
+    </div> 
+
+
+
+    <div class="col-lg-4 mt30 isotope-item">
+    <div class="our-works">
+    <div class="work-imags"><a href="#"><img src="images/portfolio/work-2.jpg" alt="work" class="card-img-round"></a></div>
+    <div class="infoblocis">
+    <div class="nameofitem">
+    <h3>Restaurant Management</h3>
+    <p class="mt5">Web Design</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="col-lg-4 mt30 isotope-item">
+    <div class="our-works">
+    <div class="work-imags"><a href="#"><img src="images/portfolio/work-3.jpg" alt="work" class="card-img-round"></a></div>
+    <div class="infoblocis">
+    <div class="nameofitem">
+    <h3>Fashion Store</h3>
+    <p class="mt5">Web Application CRM</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="col-lg-4 mt30 isotope-item">
+    <div class="our-works">
+    <div class="work-imags"><a href="#"><img src="images/portfolio/work-4.jpg" alt="work" class="card-img-round"></a></div>
+    <div class="infoblocis">
+    <div class="nameofitem">
+    <h3>Finance App</h3>
+    <p class="mt5">Web Application</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="col-lg-4 mt30 isotope-item">
+    <div class="our-works">
+    <div class="work-imags"><a href="#"><img src="images/portfolio/work-5.jpg" alt="work" class="card-img-round"></a></div>
+    <div class="infoblocis">
+    <div class="nameofitem">
+    <h3>NFT Marketplace</h3>
+    <p class="mt5">Web Design</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="col-lg-4 mt30 isotope-item">
+    <div class="our-works">
+    <div class="work-imags"><a href="#"><img src="images/portfolio/work-6.jpg" alt="work" class="card-img-round"></a></div>
+    <div class="infoblocis">
+    <div class="nameofitem">
+    <h3>Health Tracker</h3>
+    <p class="mt5">Web Admin Panel</p>
+    </div>
+    </div>
+    </div>
+    </div>
+
+    </div>
+    </div>
+    </section>
 
     <section class="section-space bg--2">
     <div class="container">
@@ -106,6 +262,7 @@
     </div>
     </div>
     </div>
+    
     <div class="row mt20 content grid blueketworktile cardaclr">
     <div class="col-xl-4 col-md-6 mt30 grid-item brand">
     <a href="#.">

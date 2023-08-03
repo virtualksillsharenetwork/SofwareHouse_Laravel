@@ -17,5 +17,7 @@
 
 <script src="{{ asset('js/custom.js') }}"></script>
 <script src="{{ asset('js/particles.min.js') }}"></script>
+<script src="{{ asset('js/coundown.js') }}"></script>
+
 
 

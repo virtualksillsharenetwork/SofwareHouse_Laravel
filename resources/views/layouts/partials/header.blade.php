@@ -24,47 +24,41 @@
             <a href="#.">Services <i class="fa-solid fa-angle-down"></i></a>
             <div class="menu-subs menu-column-1">
             <ul>
-                <li><a href="/services-app">App Design & Development</a></li>
-                <li><a href="/services-web">Website and Web App</a></li>
+                <li><a href="/services-app">Mobile App Design & Development</a></li>
+                <li><a href="/services-web">Website and Web Application</a></li>
                 <li><a href="/services-desktop">Desktop App Development</a></li>
-                <li><a href="#">AI Development Service</a></li>
-                <li><a href="#">Enterprise App Development</a></li>
-                <li><a href="#">Software Quality Assurance</a></li>
-                <li><a href="#">IoT Development</a></li>
-                <li><a href="#">Data Scraping</a></li>
-                <li><a href="#">Graphic Design</a></li>
-                <li><a href="#">Blockchain Development</a></li>
-                <li><a href="#">Custom Software Development</a></li>
-                <li><a href="#">Technical Support Services</a></li>
-                <li><a href="#">Cyber Security Services</a></li>
-                <li><a href="#">Software Project Management</a></li>
-                <li><a href="#">UI/UX Design</a></li>
-                <li><a href="#">Custom Software Development</a></li>
+                <!-- <li><a href="#">AI Development Service</a></li> -->
+                <li><a href="/services-brandingagency">Enterprise App Development</a></li>
+                <!-- <li><a href="#">Software Quality Assurance</a></li> -->
+                <!-- <li><a href="#">IoT Development</a></li> -->
+                <!-- <li><a href="#">Data Scraping</a></li> -->
+                <li><a href="/services-graphicdesign">Graphic Design</a></li>
+                <!-- <li><a href="#">Blockchain Development</a></li> -->
+                <li><a href="/services-web">Custom Software Development</a></li>
+                <!-- <li><a href="/services-desktop">Software Project Management</a></li> -->
+                <li><a href="/services-brandingagency">Technical Support Services</a></li>
+                <li><a href="/comming-soon">Cyber Security Services</a></li>
+                <li><a href="/services-uiuxdesign">UI/UX Design</a></li>
+                <!-- <li><a href="/services-desktop">Custom Software Development</a></li> -->
                
 
              </ul>
             </div>
             </li>
+           
             <li class="menu-item-has-children">
-                <a href="#.">Projects <i class="fa-solid fa-angle-down"></i></a>
-                <div class="menu-subs menu-column-1">
-                <ul>
-                    <li><a href="/projects-all">All Projects</a></li>
-                    <li><a href="/projects-top">Top Projects</a></li>
-                    <li><a href="/projects-products">Our Products</a></li>
-                 </ul>
-                </div>
-                </li>
-            <li class="menu-item-has-children">
-            <a href="#.">Portfolio <i class="fa-solid fa-angle-down"></i></a>
+            <a href="#.">Projects & Portfolio <i class="fa-solid fa-angle-down"></i></a>
             <div class="menu-subs menu-column-1">
             <ul>
-            <li><a href="/portfolio-ceo">CEO </a></li>
-            <li><a href="/portfolio-team"> Team </a></li>
+            <li><a href="/portfolio-ceo">CEO Portfolio</a></li>
+            <li><a href="/portfolio-team">Team Portfolio </a></li>
+            <li><a href="/projects-all">All Projects</a></li>
+            <li><a href="/projects-top">Top Projects</a></li>
+            <!-- <li><a href="/projects-products">Our Products</a></li> -->
             </ul>
             </div>
             </li>
-            <li><a href="/">Career</a></li>
+            <li><a href="/comming-soon">Career</a></li>
             <li><a href="/about-us">About Us</a></li>
             <li><a href="/contact-us">Contact Us</a></li>
 

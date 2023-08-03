@@ -100,7 +100,7 @@
     </div>
     </section>
 
-
+<!-- 
     <section class="section-space bkbg3 bg--1">
     <div class="container">
     <div class="row justify-content-between">
@@ -162,7 +162,7 @@
     </div>
     </div>
     </div>
-    </section>
+    </section> -->
 
 
 

@@ -110,8 +110,8 @@
     <div class="ourteam">
     <div class="container-fluid">
     <div class="row">
-    <div class="col-lg-12">
-    <div class="paralleximg roundimg"><img src="images/common/all-team.jpg" alt="team view"></div>
+    <div class="col-lg-8 pad-left-70">
+    <div class="paralleximg roundimg"><img src="images/common/office-view.jpg" alt="office view"></div>
     </div>
     </div>
     </div>

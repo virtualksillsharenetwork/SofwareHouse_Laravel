@@ -54,31 +54,31 @@
     <div class="row mt30 justify-content-between v-center">
     <div class="col-lg-6 order1 mt30 wow fadeIn" data-wow-delay=".2s">
     <div class="card-img-round">
-    <img src="images/portfolio/work-1.jpg" alt="project">
+    <img src="{{ asset('images/portfolio/weddme.png') }}" alt="project">
     </div>
     </div>
     <div class="col-lg-5 order2 mt30 wow fadeIn" data-wow-delay=".6s">
     <div class="project-card-info">
-    <span class="scriptheading mb15">Figma, UI/UX, Android</span>
-    <h3>Multi-Vendor eCommerce Store Android App</h3>
-    <a href="#" class="sw-btn sw-blue-btn mt50">Live View <i class="fa-solid fa-arrow-trend-up"></i></a>
+    <span class="scriptheading mb15">Laravel, VUE.js</span>
+    <h3>WeddMe PK: Spouse Finding Site</h3>
+    <a href="https://www.weddme.pk/0" class="sw-btn sw-blue-btn mt50">Live View <i class="fa-solid fa-arrow-trend-up"></i></a>
 
     <div class="icon-label mt50">
     <div class="icon-data">
-    <img src="images/icons/python.svg" alt="Python">
-    <p>Python</p>
+    <img src="images/icons/laravel.svg" alt="laravel">
+    <p>Laravel</p>
     </div>
     <div class="icon-data">
-    <img src="images/icons/react.svg" alt="figma">
-    <p>React</p>
+    <img src="images/icons/php.svg" alt="php">
+    <p>PHP</p>
     </div>
     <div class="icon-data">
-    <img src="images/icons/figma.svg" alt="figma">
-    <p>Figma</p>
+    <img src="images/icons/jquery.svg" alt="jquery">
+    <p>jQuery</p>
     </div>
     <div class="icon-data">
-    <img src="images/icons/android.svg" alt="Android">
-    <p>Android</p>
+    <img src="images/icons/vue.svg" alt="vue">
+    <p>VUE.js</p>
     </div>
     </div>
 
@@ -90,26 +90,26 @@
     <div class="row mt30 justify-content-between v-center">
     <div class="col-lg-5 order2 mt30 wow fadeIn" data-wow-delay=".2s">
     <div class="project-card-info">
-    <span class="scriptheading mb15">Photoshop, PhP, HTML</span>
-    <h3>Restaurant Web Development</h3>
-    <a href="#" class="sw-btn sw-blue-btn mt50">Live View <i class="fa-solid fa-arrow-trend-up"></i></a>
+    <span class="scriptheading mb15"> HTML, CSS, jQuery, Bootstrap, CodeIgniter, PHP, Javascript</span>
+    <h3>Multibranch School Management App</h3>
+    <a href="https://multibranchimsv2.pears.info/" class="sw-btn sw-blue-btn mt50">Live View <i class="fa-solid fa-arrow-trend-up"></i></a>
 
     <div class="icon-label mt50">
     <div class="icon-data">
-    <img src="images/icons/python.svg" alt="Python">
-    <p>Python</p>
+    <img src="images/icons/codeigniter.svg" alt="codeigniter">
+    <p>Codeigniter</p>
     </div>
     <div class="icon-data">
-    <img src="images/icons/react.svg" alt="figma">
-    <p>React</p>
+    <img src="images/icons/html.svg" alt="html">
+    <p>HTML</p>
     </div>
     <div class="icon-data">
-    <img src="images/icons/figma.svg" alt="figma">
-    <p>Figma</p>
+    <img src="images/icons/bootstrap-5.svg" alt="bootstrap-5">
+    <p>Bootstrap</p>
     </div>
     <div class="icon-data">
-    <img src="images/icons/android.svg" alt="Android">
-    <p>Android</p>
+    <img src="images/icons/javascript.svg" alt="javascript">
+    <p>JavaScript</p>
     </div>
     </div>
 
@@ -117,7 +117,7 @@
     </div>
     <div class="col-lg-6 order1 mt30 wow fadeIn" data-wow-delay=".6s">
     <div class="card-img-round">
-    <img src="images/portfolio/work-2.jpg" alt="project">
+    <img src="{{ asset('images/portfolio/multibranchimsv2.pears.info.png') }}" alt="project">
     </div>
     </div>
     </div>
@@ -126,14 +126,14 @@
     <div class="row mt30 justify-content-between v-center">
     <div class="col-lg-6 order1 mt30 wow fadeIn" data-wow-delay=".2s">
     <div class="card-img-round">
-    <img src="images/portfolio/work-3.jpg" alt="project">
+    <img src="{{ asset('images/portfolio/office.rsfsoft.com.png') }}" alt="project">
     </div>
     </div>
     <div class="col-lg-5 order2 mt30 wow fadeIn" data-wow-delay=".6s">
     <div class="project-card-info">
-    <span class="scriptheading mb15">Adobe XD, Java, React</span>
-    <h3>Fashion Store iOs App & Web Design</h3>
-    <a href="#" class="sw-btn sw-blue-btn mt50">Live View <i class="fa-solid fa-arrow-trend-up"></i></a>
+    <span class="scriptheading mb15">Adobe XD, Python, React</span>
+    <h3>Office Management System</h3>
+    <a href="https://office.rsfsoft.com/" class="sw-btn sw-blue-btn mt50">Live View <i class="fa-solid fa-arrow-trend-up"></i></a>
 
     <div class="icon-label mt50">
     <div class="icon-data">
